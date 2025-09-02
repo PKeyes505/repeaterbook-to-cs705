@@ -162,7 +162,7 @@ with open(input_file, mode='r', newline='', encoding='utf-8') as infile, \
             'Mode': map_mode(row.get('Mode', 'FM')),
             'TONE': tone,
             'Repeater Tone': row.get('Downlink Tone', ''),
-            'RPT1USE': "NO",  # Translates to the SKIP 
+            'RPT1USE': "YES",  # Translates to the SKIP 
             'Position': determine_position(lat, long),
             'Latitude': lat,
             'Longitude': long,
