@@ -1,0 +1,328 @@
+Output Freq,Input Freq,Offset,Uplink Tone,Downlink Tone,"Location",County,Lat,Long,Call,Use,Op Status,Mode,Digital Access,EchoLink,IRLP,AllStar,Coverage,Status,Last Update
+53.01000,52.51000,-,131.8,,"Farmington",San Juan,36.72809982,-108.21800232,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+53.08000,52.58000,-,127.3,,"Carlsbad",Eddy,32.42070007,-104.22899628,KD6WJG,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-02
+53.41000,52.91000,-,,,"Alamogordo",Otero,32.89939880,-105.95999908,KA5BYL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-22
+53.75000,52.75000,-,141.3,,"Las Cruces",Dona Ana,32.31993960,-106.76365380,N5BL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-06
+144.96000,144.56000,s,,,"Alamogordo - La Luz",Otero,32.89950180,-105.95999908,W6DHS,OPEN,Unknown,DStar,,,,,,Unknown,2022-06-13
+145.11500,144.51500,-,67.0,,"Pinos Altos",Grant,32.74819946,-108.16600037,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-22
+145.11500,144.51500,-,,,"Farmington",San Juan,36.78170013,-107.98999786,KF5VBE,OPEN,On-Air,DStar,,,,,,On-Air,2022-12-16
+145.13000,144.53000,-,100.0,100.0,"Albuquerque - Fire Sta 35",Bernalillo,35.17350006,-106.51000214,NM5BC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-02-19
+145.13000,144.53000,-,141.3,,"Caballo - Caballo Peak",Sierra,33.13309860,-107.23500061,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-02
+145.15000,144.55000,-,100.0,100.0,"Tijeras - Cedro Peak",Bernalillo,35.05300140,-106.35199738,NM5BC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-05-19
+145.17000,144.57000,-,100.0,,"Lordsburg - Jack's Peak",Hidalgo,32.58300018,-108.42500305,N5IA,OPEN,Unknown,Analog/analog,,,,,Wide area,Unknown,2021-08-24
+145.17500,144.57500,-,156.7,156.7,"Cuba - Eureka Mesa",Sandoval,36.01338400,-106.84455900,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-25
+145.17500,144.57500,-,141.3,141.3,"Socorro - Socorro Peak",Socorro,34.05839920,-106.89099884,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-02-25
+145.18000,144.58000,-,,,"Tularosa",Otero,33.07397300,-106.01860250,N6CID,OPEN,On-Air,DMR,,,,,Wide area,On-Air,2025-03-16
+145.19000,144.59000,-,162.2,162.2,"Los Alamos - Pajarito Mtn",Los Alamos,35.88669968,-106.39499664,W5SF,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2023-02-05
+145.19000,144.59000,-,,,"Los Alamos - Pajarito Mtn",Los Alamos,35.88669968,-106.39499664,NM5EC,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2023-02-05
+145.21000,144.61000,-,110.9,110.9,"Maxwell - Eagle Tail Mtn",Colfax,36.68300000,-104.41500000,N5GDR,OPEN,On-Air,Analog/analog,,,,46298,,On-Air,2023-04-20
+145.21000,144.61000,-,141.3,,"Lordsburg - Jack's Peak",Hidalgo,32.58269400,-108.42580300,K7EAR,OPEN,On-Air,Analog/analog,,614350,7787,,,On-Air,2023-02-11
+145.21000,144.61000,-,,,"Santa Fe - Food Depot",Santa Fe,35.65900000,-105.99600000,W5SF,OPEN,On-Air,DStar,,,,,,On-Air,2024-10-21
+145.23000,144.63000,-,123.0,,"Cloudcroft - Benson Ridge",Otero,32.85810089,-105.71099854,K5KKO,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-01-06
+145.25000,144.65000,-,82.5,82.5,"Cedar Crest",Bernalillo,35.12996800,-106.36581200,K6EEN,OPEN,On-Air,Analog/analog,,,,58153,,On-Air,2022-11-23
+145.25000,144.65000,-,88.5,,"Lordsburg - Jack's Peak",Hidalgo,32.35029984,-108.70800018,N5IA,CLOSED,On-Air,Analog/analog,,,,,,On-Air,2021-09-25
+145.25000,144.65000,-,141.3,,"Caprock - Caudill Ranch",Lea,33.39210129,-103.71199799,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-10
+145.25000,144.65000,-,123.0,,"Red River - Valle Vidal",Taos,36.75999832,-105.30999756,KF5PFO,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-06-25
+145.27000,144.67000,-,141.3,,"Luna - South Mtn",Catron,33.82700000,-109.17000000,K7EAR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-08-22
+145.29000,144.69000,-,100.0,,"Albuquerque - Sandia Crest",Bernalillo,35.20890045,-106.44699860,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-06-04
+145.31000,144.71000,-,100.0,,"Caballo - Caballo Peak",Sierra,32.97153800,-107.22647000,K5URR,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2025-08-20
+145.33000,144.73000,-,100.0,,"Albuquerque - Sandia Crest",Bernalillo,35.20890045,-106.44699860,W5CSY,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-22
+145.35000,144.75000,-,67.0,,"Alamogordo - Long Ridge",Otero,32.83309937,-105.88300323,WA5IHL,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-05
+145.37000,144.77000,-,162.2,,"Edgewood",Bernalillo,35.06344100,-106.17920800,KF5MEF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-08-22
+145.37000,144.77000,-,141.3,,"Clovis - Claud",Curry,34.40480042,-103.20500183,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-10
+145.37000,144.77000,-,141.3,,"Wagon Mound - Turkey Mtn",Mora,35.98400116,-104.90100098,NM5EM,OPEN,Unknown,Analog/analog,,,,,,Unknown,2023-04-20
+145.37000,144.77000,-,156.7,,"Cloudcroft - Benson Ridge",Otero,32.95729828,-105.74199677,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-10
+145.37000,144.77000,-,162.2,,"Edgewood",Santa Fe,35.06140000,-106.19140000,KF5MEF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-06-26
+145.39000,144.79000,-,127.3,127.3,"Cubero",Cibola,35.13005530,-107.65779960,KE5FYL,OPEN,On-Air,Analog/analog,,,,599322,Wide area,On-Air,2024-07-30
+145.39000,144.79000,-,100.0,,"Red River",Taos,36.69300079,-105.51399994,KF5PFO,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-03
+145.41000,144.81000,-,100.0,,"La Cueva",Sandoval,35.86729813,-106.63800049,W5HO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-16
+145.43000,144.83000,-,88.5,,"Columbus",Luna,31.82760048,-107.63999939,W5DAR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+145.43000,144.83000,-,162.2,,"Zuni - Black Rock",McKinley,35.11500000,-108.73920000,KD5SAR,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-07-02
+145.43000,144.83000,-,100.0,,"Los Lunas - Meadow Lake",Valencia,34.80540000,-106.54560000,KC5OUR,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-03-24
+145.45000,144.85000,-,151.4,,"Ruidoso",Lincoln,33.30939865,-105.65799713,KR5NM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-19
+145.47000,144.87000,-,141.3,,"Caballo - Caballo Lake",Sierra,33.13309860,-107.23500061,K7EAR,OPEN,On-Air,Analog/analog,,614350,7787,,,On-Air,2023-02-11
+145.49000,144.89000,-,103.5,,"Glenwood - Brushy Mtn",Catron,33.30300000,-108.93300000,K5LME,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-07-20
+145.49000,144.89000,-,100.0,,"Raton",Colfax,36.76000000,-104.40500000,N0DRC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-10-17
+145.49000,144.89000,-,100.0,,"Lybrook",Rio Arriba,36.23329926,-107.56199646,NM5SJ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-06-04
+145.51500,144.91500,-,141.3,,"Corona - Gallinas Peak",Lincoln,34.24440002,-105.79100037,NM5EM,OPEN,Unknown,Analog/analog,,,,,,Unknown,2023-04-11
+146.61000,146.01000,-,100.0,,"Capitan - Capitan Mountain",Lincoln,33.60645542,-105.36043289,KR5NM,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2025-06-09
+146.61000,146.01000,-,100.0,,"Aztec - Hottel Hill",San Juan,36.80630112,-108.00199890,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-05
+146.64000,146.04000,-,67.0,67.0,"Grants - MW Ridge",Bernalillo,35.18880081,-107.59999847,K5URR,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-17
+146.64000,146.04000,-,100.0,,"Roswell - NMMI",Chaves,33.41230011,-104.52300262,N5MMI,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-02
+146.64000,146.04000,-,100.0,,"Las Cruces/ Twin Peaks",Dona Ana,32.40409851,-106.76300049,N5BL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-02-12
+146.66000,146.06000,-,100.0,,"Grants - Microwave Ridge",Cibola,35.18910000,-107.59960000,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-17
+146.66000,146.06000,-,67.0,,"Roswell - Capitan Peak",Lincoln,33.59109879,-105.26499939,WA5IHL,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-09-01
+146.68000,146.08000,-,100.0,123.0,"Socorro - M Mtn",Socorro,34.07170105,-106.96299744,W5AQA,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-02-25
+146.70000,146.10000,-,100.0,,"Belen",Valencia,34.66279984,-106.77600098,KC5OUR,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-06-04
+146.72000,146.12000,-,100.0,127.3,"Tijeras",Bernalillo,34.98500061,-106.34500122,K5CQH,OPEN,On-Air,Analog/analog,,880130,,,Wide area,On-Air,2022-12-17
+146.74000,146.14000,-,100.0,,"Aztec",San Juan,36.82220078,-107.99199677,NM5SJ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-12
+146.76000,146.16000,-,127.3,,"Carlsbad",Eddy,32.42070007,-104.22899628,KD6WJG,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+146.76000,146.16000,-,100.0,100.0,"Farmington",San Juan,36.72809982,-108.21800232,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-04
+146.76000,146.16000,-,100.0,,"Caballo - Caballo Peak",Sierra,32.88759995,-107.26899719,N5BL,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-07-23
+146.76000,146.16000,-,67.0,,"Tres Piedras - San Antonio Mtn",Taos,36.64690018,-105.96700287,KF5PFO,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-13
+146.78000,146.18000,-,100.0,,"Organ - San Augustin Peak",Dona Ana,32.42580032,-106.56700134,N5IAC,CLOSED,On-Air,Analog/analog,,,,,,On-Air,2022-07-23
+146.78000,146.18000,-,,,"Tres Piedras - San Antonio Mtn",Taos,36.85900000,-106.01890000,KF5PFO,OPEN,On-Air,DMR,5,,,,Wide area,On-Air,2021-11-12
+146.82000,146.22000,-,67.0,,"Portales",Roosevelt,34.18610001,-103.33399963,KE5RUE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+146.82000,146.22000,-,100.0,,"Sanostee - Roof Butte",San Juan,36.46139908,-109.09600067,NM5SJ,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2025-08-22
+146.82000,146.22000,-,162.2,,"Santa Fe - Tesuque Peak",Santa Fe,35.78499985,-105.78099823,W5SF,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-02-05
+146.84000,146.24000,-,103.5,,"Apache Creek - Mangas Mtn",Catron,34.05196000,-108.30735000,K5LME,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-25
+146.84000,146.24000,-,,,"Las Cruces - Twin Peaks",Dona Ana,32.40450000,-106.76220000,N5BL,OPEN,On-Air,DStar,,,,,,On-Air,2022-12-18
+146.84000,146.24000,-,67.0,,"Redlake ",Roosevelt,33.90000153,-103.50000000,KE5RUE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+146.84000,146.24000,-,107.2,,"La Cueva",Sandoval,35.66600000,-106.74600000,N9PGQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-07-20
+146.85000,146.25000,-,100.0,100.0,"Farmington",San Juan,36.72809982,-108.21800232,K5WXI,OPEN,On-Air,Analog/analog,,,,,,On-Air,0000-00-00
+146.88000,146.28000,-,88.5,,"Carlsbad",Eddy,32.41650009,-104.23000336,N5CNM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-15
+146.88000,146.28000,-,,,"Los Alamos - Barranca Mesa",Los Alamos,35.90269852,-106.28199768,W5PDO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-03-09
+146.88000,146.28000,-,100.0,,"Aztec - Tank Mtn",San Juan,36.82220078,-107.99299622,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-05
+146.90000,146.30000,-,67.0,,"Albuquerque - Op Ctr",Bernalillo,35.05780029,-106.58699799,K5FIQ,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-23
+146.92000,146.32000,-,100.0,,"Ruidoso - Alto Crest",Lincoln,33.38639832,-105.67099762,KR5NM,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-15
+146.92000,146.32000,-,100.0,,"Bloomfield",San Juan,36.71110153,-107.98400116,K5WXI,OPEN,On-Air,Analog/analog,,,,,,On-Air,2017-08-25
+146.94000,146.34000,-,,,"Roswell",Chaves,33.39419937,-104.52200317,KJ5UFO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-02
+146.94000,146.34000,-,100.0,,"Grants - Mt Taylor",Cibola,35.23860168,-107.60800171,K5URR,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-17
+146.96000,146.36000,-,100.0,88.5,"Belen - Capilla Peak",Torrance,34.70140076,-106.40100098,K5URR,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-02-25
+146.98000,146.38000,-,141.3,141.3,"Grants - Mt Taylor",Cibola,35.25249863,-107.59700012,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-02-24
+146.98000,146.38000,-,103.5,,"Silver City - Black Peak",Grant,32.90947800,-108.16219100,K5GAR,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-18
+146.98000,146.38000,-,100.0,100.0,"Ruidoso - Buck Mtn",Lincoln,33.33169937,-105.67299652,K5RIC,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-08-02
+147.00000,147.60000,+,100.0,100.0,"High Rolls",Otero,32.93989944,-105.84200287,KF5MQH,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-12-02
+147.00000,147.60000,+,67.0,,"Portales - ENMU",Roosevelt,34.18069839,-103.35199738,W5OMU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2017-01-15
+147.00000,147.60000,+,67.0,,"Midway (Portales)",Roosevelt,34.25000000,-103.23000336,KE5RUE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+147.00000,147.60000,+,100.0,,"Farmington - College Hill",San Juan,36.76200000,-108.18200000,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-05
+147.02000,147.62000,+,100.0,,"Deming - Little Florida Mtn",Luna,32.26860046,-107.75800323,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-22
+147.02000,147.62000,+,141.3,,"Santa Fe - Tesuque Peak",Santa Fe,35.78530121,-105.78199768,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-06-01
+147.04000,147.64000,+,100.0,,"Datil - Davenport Lookout",Catron,34.28359985,-107.91300201,NM5ML,OPEN,Unknown,Analog/analog,,,,,,Unknown,2021-07-22
+147.04000,147.64000,+,141.3,,"Eagle Nest - Touch Me Not",Colfax,36.57799911,-105.19799805,NM5EM,OPEN,Unknown,Analog/analog,,,,,,Unknown,2021-06-04
+147.04000,147.64000,+,141.3,141.3,"Santa Rosa - Moon Ranch",Guadalupe,34.93870163,-104.68199921,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-17
+147.04000,147.64000,+,151.4,,"Deming - Little Florida Mtn",Luna,32.19400000,-107.60800000,K5ELP,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-01-03
+147.06000,147.66000,+,141.3,,"Deming - Little Florida Mtn",Luna,32.19279861,-107.60500336,K7EAR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-02-11
+147.06000,147.66000,+,67.0,,"Clines Corners - Tapia Mesa",San Miguel,35.04779816,-105.62999725,K5FIQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-23
+147.08000,147.68000,+,,,"Deming",Luna,32.26869965,-107.75900269,W5JX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-15
+147.08000,147.68000,+,162.2,,"Chama - Overlook Mtn",Rio Arriba,36.90999985,-106.58000183,W5SF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-06-04
+147.08000,147.68000,+,100.0,,"Placitas - La Madera",Sandoval,35.30749893,-106.45700073,NM5SC,OPEN,On-Air,Analog/analog,,,,28176,Wide area,On-Air,2023-02-05
+147.10000,147.70000,+,103.5,,"Reserve - Eagle Peak",Catron,33.67673000,-108.57694000,K5LME,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-25
+147.10000,147.70000,+,,,"Jal",Lea,32.11309814,-103.19300079,N5SVI,OPEN,Unknown,Analog/analog,,,,,,Unknown,0000-00-00
+147.10000,147.70000,+,100.0,,"Bloomfield - Harris Mesa",San Juan,36.61000061,-107.80999756,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+147.10000,147.70000,+,100.0,100.0,"Rio Rancho - Rainbow",Sandoval,35.27439880,-106.73699951,NM5RR,OPEN,On-Air,Analog/analog,,,,27749,,On-Air,2023-02-05
+147.12000,147.72000,+,88.5,,"Carlsbad - Dark Canyon",Eddy,32.27550125,-104.45300293,N5SOR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-25
+147.12000,147.72000,+,67.0,,"Taos - Picuris Peak",Taos,36.24689865,-105.65399933,W5TYL,OPEN,On-Air,Analog/analog,,891030,,,Wide area,On-Air,2022-08-02
+147.12000,147.72000,+,100.0,,"Bosque Farms",Valencia,34.85300000,-106.69800000,KC5OUR,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-07-20
+147.14000,147.74000,+,100.0,,"Datil - Luera Peak",Catron,33.82640076,-107.87699890,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-07-22
+147.14000,147.74000,+,100.0,,"Fort Sumner",Debaca,34.47169876,-104.24500275,KB5ZFA,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-07-22
+147.14000,147.74000,+,67.0,,"Maljamar",Lea,32.85609818,-103.76200104,,OPEN,On-Air,DStar/analog,,,,,Wide area,On-Air,2025-08-14
+147.14000,147.74000,+,67.0,,"Taos - Ski Valley",Taos,36.59780121,-105.44499969,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-22
+147.15000,147.75000,+,100.0,,"Arboles - Spring Creek",San Juan,37.11000000,-107.63000000,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-08-22
+147.17500,147.77500,+,141.3,,"Des Moines - Sierra Grande",Union,36.76110077,-103.83399963,NM5EM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-04
+147.18000,147.78000,+,146.2,,"Roswell",Chaves,33.39426550,-104.52302420,W5JXT,OPEN,On-Air,DMR/analog,1,,,,,On-Air,2023-01-30
+147.18000,147.78000,+,100.0,CSQ,"Grants - I-40 Exit 81",Cibola,35.13273500,-107.88849000,KE5FYL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-05-04
+147.18000,147.78000,+,100.0,100.0,"Dixon - Cerro Abajo",Rio Arriba,36.20809700,-105.90045000,KD5PX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-19
+147.20000,147.80000,+,67.0,,"Wagon Mound - Turkey Mtn",Mora,35.98429871,-104.90100098,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-04-20
+147.20000,147.80000,+,162.2,,"Santa Fe - St Vincent Hospital",Santa Fe,35.65930176,-105.94499969,W5SF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-02-05
+147.20000,146.60000,-,103.5,,"Magdalena - Gray Hill",Socorro,34.03800000,-107.44600000,K5LME,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-03
+147.22000,147.82000,+,127.3,127.3,"Hobbs",Lea,32.78530121,-103.11799622,K5INW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-22
+147.22000,147.82000,+,67.0,,"Gallup - Deza Bluffs",McKinley,35.90309906,-108.77200317,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-17
+147.22000,147.82000,+,151.4,151.4,"Alamogordo - Alamo Peak",Otero,32.87250137,-105.81199646,KE5MIQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-06
+147.22000,147.82000,+,100.0,,"Tucumcari - Tucumcari Mtn",Quay,35.13420105,-103.69899750,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-17
+147.22000,147.82000,+,100.0,,"Tres Piedras - San Antonio Mtn",Rio Arriba,36.85969925,-106.01799774,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-06-04
+147.24000,147.84000,+,67.0,,"Clovis",Curry,34.40470123,-103.20500183,KA5B,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-05
+147.24000,147.84000,+,67.0,,"Cuba - Eureka Mesa",Sandoval,36.01359940,-106.84400177,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-09-19
+147.24000,147.84000,+,100.0,88.5,"Socorro - Socorro Peak",Socorro,34.07139969,-106.96199799,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-07-22
+147.26000,147.86000,+,100.0,,"Roswell",Chaves,33.39419937,-104.52200317,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-22
+147.26000,147.86000,+,100.0,,"Gallup - Gibson Peak",McKinley,35.60509872,-108.68499756,KC5WDV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-17
+147.26000,147.86000,+,67.0,,"Pecos - Elk Mtn",San Miguel,35.76720047,-105.55400085,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-05-20
+147.26000,147.86000,+,100.0,,"Caballo - Caballo Peak",Sierra,32.96950150,-107.22499847,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-22
+147.28000,147.88000,+,100.0,,"Raton - Sierra Grande",Colfax,36.90330124,-104.43900299,,OPEN,On-Air,DStar/analog,,,,,Wide area,On-Air,2025-08-14
+147.28000,147.88000,+,67.0,,"Melrose",Curry,34.43030167,-103.63200378,NM5ML,OPEN,Unknown,Analog/analog,,,,,Wide area,Unknown,2021-07-22
+147.28000,147.88000,+,123.0,123.0,"Carlsbad",Eddy,32.42070007,-104.22899628,K5CNM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-29
+147.28000,147.88000,+,100.0,,"Corona - Gallinas Peak",Lincoln,34.24440002,-105.79100037,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-03
+147.28000,147.88000,+,67.0,,"Bloomfield - Harris Mesa",San Juan,36.60670090,-107.80500031,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-07-22
+147.30000,147.90000,+,103.5,,"Reserve - Frisco Divide",Catron,33.75967000,-108.88599000,K5LME,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-25
+147.30000,147.90000,+,123.0,,"Queen - Fire Station",Eddy,32.19079971,-104.74600220,K5CNM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-15
+147.30000,147.90000,+,162.2,162.2,"Las Vegas - Elk Mtn",San Miguel,35.76670074,-105.55300140,W5SF,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-05-20
+147.32000,147.92000,+,100.0,,"Albuquerque",Bernalillo,35.13059998,-106.49800110,K5LXP,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-05-02
+147.32000,147.92000,+,146.2,146.2,"Roswell - Comanche Hill",Chaves,33.40168000,-104.37994300,W5ZU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-15
+147.32000,147.92000,+,71.9,71.9,"Clovis",Curry,34.40480042,-103.20500183,WS5D,OPEN,On-Air,Analog/analog,,,,28177,,On-Air,2022-12-16
+147.34000,147.94000,+,67.0,,"Tijeras - Cedro Peak",Bernalillo,35.05310059,-106.35099792,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-23
+147.34000,147.94000,+,100.0,,"Angel Fire - Agua Fria Peak",Colfax,36.36000061,-105.20999908,N5LEM,OPEN,Unknown,Analog/analog,,,,,Wide area,Unknown,2025-03-16
+147.36000,147.96000,+,100.0,,"Albuquerque",Bernalillo,35.10919952,-106.49700165,KB5XE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-15
+147.36000,147.96000,+,67.0,,"Reserve - Frisco Divide",Catron,33.75780106,-108.88500214,,OPEN,On-Air,DStar/analog,,,,,,On-Air,2025-08-14
+147.36000,147.96000,+,100.0,,"Navajo Dam - Navajo Lake",San Juan,36.79999924,-107.62000275,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+147.36000,147.96000,+,100.0,,"Conchas Dam - Mesa Rica",San Miguel,35.23279953,-104.22299957,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-17
+147.38000,147.98000,+,162.2,,"Albuquerque",Bernalillo,35.21656600,-106.45203300,K5GAS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-04-11
+147.38000,147.98000,+,123.0,123.0,"Hope",Eddy,32.81039810,-104.73300171,K5CNM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-29
+147.39000,147.99000,+,88.5,,"Kenton",Union,36.90100098,-103.00299835,WB5NJU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-04
+147.46500,147.46500,x,88.5,,"Albuquerque",Bernalillo,35.09460068,-106.55100250,W5MHG,OPEN,On-Air,Analog/analog,,465010,,28239,,On-Air,2017-07-21
+147.52000,147.52000,x,,,"Grants - Rogers Rock",Cibola,35.14726000,-107.85144660,KE5FYL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-01-13
+147.57000,147.57000,x,,,"Albuquerque - Sandia Crest",Bernalillo,35.14230140,-106.64472230,KI6EAY,CLOSED,On-Air,Analog/analog,,326854,,427273,Wide area,On-Air,2025-01-20
+223.82000,222.22000,-,,,"Albuquerque",Bernalillo,34.80609894,-106.53500366,KA5BIW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-15
+223.90000,222.30000,-,,,"Albuquerque",Bernalillo,35.16299820,-106.70999908,KB5UGU,OPEN,On-Air,Analog/analog,,87120,,,,On-Air,2022-08-09
+223.94000,222.34000,-,,,"Las Cruces",Dona Ana,32.31993960,-106.76365380,WD8AJJ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-04-26
+223.94000,222.34000,-,,,"Los Alamos - Pajarito Mtn",Los Alamos,35.88399887,-106.38200378,KB5RX,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-08-02
+224.04000,222.44000,-,100.0,100.0,"Los Alamos",Los Alamos,35.89199829,-106.28500366,KA5BIW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-16
+224.04000,222.44000,-,100.0,,"Alamogordo",Otero,32.89950180,-105.95999908,K5LRW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-05
+224.22000,222.62000,-,100.0,,"Alamogordo",Otero,32.92062200,-105.94165400,N6CID,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-12-23
+224.34000,222.74000,-,,,"Dona Ana",Dona Ana,32.38940048,-106.81300354,KC5SJQ,OPEN,Unknown,Analog/analog,,,,,,Unknown,0000-00-00
+224.38000,222.78000,-,100.0,,"Albuquerque",Bernalillo,35.09590149,-106.52500153,KA5BIW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-29
+224.40000,222.80000,-,225.7,,"Taos - Picuris Peak",Taos,36.24700165,-105.65499878,KF5PFO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-16
+224.46000,222.86000,-,127.3,,"Carlsbad",Eddy,32.39699936,-104.19200134,N5MJ,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-02-12
+224.58000,222.98000,-,100.0,,"Albuquerque",Bernalillo,35.13769913,-106.49800110,KH6JTM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-11-29
+224.60000,223.00000,-,,,"Alamogordo",Otero,32.89939880,-105.95999908,KA5BYL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+224.98000,223.38000,-,,,"Tucumcari",Quay,35.17169952,-103.72399902,WA5EMA,OPEN,Unknown,Analog/analog,,,,,,Unknown,0000-00-00
+434.97500,429.97500,-,,,"Clovis",Curry,34.43159890,-103.20049520,K4USD,OPEN,On-Air,DMR,1,,,,,On-Air,2021-10-24
+440.05000,445.05000,+,173.8,173.8,"Hatch - Magdalena Peak",Luna,32.49127000,-107.16613000,W7FED,OPEN,On-Air,Analog/analog,,,,27421,Wide area,On-Air,2023-04-05
+440.20000,445.20000,+,131.8,,"Pecos - Rowe Mesa",San Miguel,35.46280000,-105.65450000,KB5ZQE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-04-26
+440.30000,445.30000,+,,,"Farmington - FAA Hill",San Juan,36.77850000,-108.18750000,N5UBJ,OPEN,On-Air,DMR,6,,,,,On-Air,2022-07-13
+442.00000,447.00000,+,100.0,,"Los Alamos",Los Alamos,35.89199829,-106.28500366,KA5BIW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-02-05
+442.00000,447.00000,+,100.0,,"Window Rock",McKinley,35.68059921,-109.05300140,KD7LEN,OPEN,Unknown,Analog/analog,,,,,,Unknown,2024-04-11
+442.02500,447.02500,+,100.0,100.0,"Alamogordo - White Sands Nat Monument",Otero,32.89950000,-105.96020000,KA5PAL,OPEN,On-Air,DMR/analog,1,,,,,On-Air,2022-09-26
+442.05000,447.05000,+,100.0,100.0,"Albuquerque - West Mesa",Bernalillo,35.06700134,-106.70099640,NM5BC,OPEN,On-Air,Analog/analog,,,,28828,,On-Air,2022-12-23
+442.05000,447.05000,+,88.5,,"Columbus",Luna,31.82814490,-107.63537210,KB0TYJ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-05-22
+442.07500,447.07500,+,162.2,,"Maljamar",Lea,32.85609818,-103.76200104,N5IMJ,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-02-22
+442.07500,447.07500,+,,,"Tres Piedras - San Antonio Mtn",Rio Arriba,36.85973790,-106.01890760,KF5PFO,OPEN,On-Air,DStar/analog,,,,,Wide area,On-Air,2022-11-03
+442.10000,447.10000,+,162.2,,"Albuquerque - Sandia Crest",Bernalillo,35.20890045,-106.44699860,K5GAS,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2024-04-11
+442.12500,447.12500,+,107.2,,"La Cueva - Jemez Springs",Sandoval,35.69536000,-106.75650000,N9PGQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-12-18
+442.12500,447.12500,+,123.0,123.0,"Socorro - West Peak",Socorro,34.07490158,-106.96900177,KC5ORO,OPEN,On-Air,Analog/analog,,,,45499,,On-Air,2021-06-04
+442.15000,447.15000,+,100.0,,"Albuquerque - Isleta Pueblo",Bernalillo,34.90999985,-106.69999695,AB1Q,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-05
+442.17500,447.17500,+,,,"Clovis",Curry,34.43064000,-103.19627000,K4USD,OPEN,On-Air,DMR/analog,1,,,,,On-Air,2024-01-15
+442.17500,447.17500,+,,,"Taos - Picuris Peak",Taos,36.24700000,-105.65500000,KF5PFO,OPEN,On-Air,DMR,5,,,,,On-Air,2023-02-04
+442.22500,447.22500,+,,,"Los Alamos - Pajarito Mtn",Los Alamos,35.88669968,-106.39499664,NM5BB,OPEN,On-Air,DMR,7,,,,Wide area,On-Air,2021-03-24
+442.25000,447.25000,+,,,"Albuquerque - Sandia Crest",Bernalillo,35.06000137,-106.76999664,WA5IHL,OPEN,On-Air,DMR,1,,,,,On-Air,2023-04-26
+442.25000,447.25000,+,67.0,,"Redlake",Roosevelt,33.90000153,-103.50000000,KE5RUE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+442.25000,447.25000,+,,,"Aztec - Knickerbocker Peak",San Juan,36.82220078,-107.99299622,N5UBJ,OPEN,On-Air,DMR,1,,,,,On-Air,2021-09-05
+442.27500,447.27500,+,107.2,107.2,"Milan - I-40 Exit 79",Cibola,35.20966000,-107.91117000,K5HLH,OPEN,On-Air,Analog/analog,,182231,,529571,,On-Air,2024-04-09
+442.30000,447.30000,+,,,"Alamogordo - Lady of the Mtn",Otero,32.85905000,-105.93216700,N6CID,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2025-08-20
+442.30000,437.30000,-,,,"Santa Fe - Tesuque Peak",Santa Fe,35.78501000,-105.78206000,WR7HLN,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2025-07-16
+442.32500,447.32500,+,,,"Clovis",Curry,34.41760300,-103.22758600,K5NEC,OPEN,On-Air,DMR,1,,,,,On-Air,2022-12-16
+442.32500,447.32500,+,,,"Farmington",San Juan,36.72809982,-108.21900177,N5UBJ,OPEN,On-Air,DMR,1,,,,,On-Air,2022-07-13
+442.35000,447.35000,+,100.0,,"Rio Rancho",Sandoval,35.27550125,-106.61799622,WA5OLD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-11
+442.37500,447.37500,+,162.2,,"Roswell",Chaves,33.39425280,-104.52269580,W7FED,OPEN,On-Air,Analog/analog,,,,271847,,On-Air,2024-12-22
+442.40000,447.40000,+,,,"Albuquerque - Sandia Crest",Bernalillo,35.21741000,-106.45308700,W7FED,OPEN,On-Air,P25,293,,,,,On-Air,2025-07-31
+442.40000,447.40000,+,,,"Tularosa",Otero,33.07397300,-106.01860250,N6CID,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2024-07-16
+442.42500,447.42500,+,,,"Los Alamos",Los Alamos,35.88809967,-106.30699921,NM5WR,OPEN,Unknown,DStar,,,,,,Unknown,2022-06-25
+442.45000,447.45000,+,67.0,67.0,"Albuquerque - Sandia Crest",Bernalillo,35.08440018,-106.65000153,K5FIQ,OPEN,On-Air,Analog/analog,,,,42751,Wide area,On-Air,2021-06-08
+442.45000,447.45000,+,162.2,,"Artesia",Eddy,32.84230042,-104.40299988,K5CNM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-11
+442.47500,447.47500,+,100.0,,"Albuquerque - Sandia Crest",Bernalillo,35.19593650,-106.43397300,NO5DE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-10-22
+442.50000,447.50000,+,100.0,100.0,"Alamogordo - White Sands",Otero,32.88097470,-105.96022710,N6CID,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2025-04-29
+442.52500,447.52500,+,67.0,,"Clovis",Curry,34.40470123,-103.20500183,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-22
+442.52500,447.52500,+,,,"Rio Rancho",Sandoval,35.24150000,-106.77190000,NM5SH,OPEN,On-Air,DMR,1,,,,,On-Air,2022-06-09
+442.57500,447.57500,+,100.0,,"Alamogordo - Long Ridge",Otero,32.89953250,-105.96026500,KD5OH,CLOSED,On-Air,Analog/analog,,,,,,On-Air,2023-01-08
+442.60000,447.60000,+,100.0,100.0,"Albuquerque - Sandia Crest",Bernalillo,35.21707500,-106.45246600,W7FED,OPEN,On-Air,Analog/analog,,,,270518,,On-Air,2022-12-24
+442.65000,447.65000,+,,,"Alamogordo - Long Ridge",Otero,32.83000000,-105.88700000,KD5OH,OPEN,On-Air,DMR,1,,,,,On-Air,2021-07-13
+442.67500,447.67500,+,156.7,,"Albuquerque",Bernalillo,35.13763140,-106.54608690,W7FED,OPEN,Testing,Analog/analog,,,,274237,,Testing,2025-06-23
+442.67500,447.67500,+,156.7,156.7,"Clovis",Curry,34.40146240,-103.20780700,W7FED,OPEN,On-Air,Analog,,,,274235,,On-Air,2025-06-23
+442.70000,437.70000,-,100.0,,"Belen",Valencia,34.66279984,-106.77600098,KC5OUR,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-09-19
+442.75000,447.75000,+,162.2,,"Albuquerque - Sandia Crest",Bernalillo,35.20890045,-106.44699860,W5ASM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-07
+442.80000,437.80000,-,100.0,,"High Rolls",Otero,32.95080185,-105.83499908,W5AKU,OPEN,On-Air,Analog/analog,,188100,,,,On-Air,2022-02-15
+442.80000,447.80000,+,123.0,,"Taos - Civic Plaza",Taos,36.40950000,-105.57240000,KF5PFO,OPEN,On-Air,DMR/analog,5,,,,,On-Air,2022-05-22
+442.82500,447.82500,+,131.8,,"Santa Fe - Tesuque Peak",Santa Fe,35.78499985,-105.78099823,KB5ZQE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-04-26
+442.85000,447.85000,+,203.5,203.5,"White Rock",Los Alamos,35.82752570,-106.20391450,KC2SHO,OPEN,On-Air,Analog/analog,,,,587730,,On-Air,2024-03-10
+442.87500,447.87500,+,131.8,131.8,"TAOS - San Antonio Mtn",Rio Arriba,36.85000000,-106.01000000,W7FED,OPEN,On-Air,Analog/analog,,,,274221,,On-Air,2025-06-23
+442.90000,447.90000,+,,,"Albuquerque - Sandia Crest",Bernalillo,35.21350098,-106.44999695,NM5HR,OPEN,On-Air,DMR,7,,,,Wide area,On-Air,2023-04-12
+442.95000,447.95000,+,67.0,,"Anthony - Border",Dona Ana,31.99400000,-106.59300000,N5ZRF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-02-18
+442.95000,447.95000,+,85.4,85.4,"Alamogordo",Otero,32.81240082,-105.78099823,N6CID,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+442.97500,447.97500,+,,,"Alamogordo",Otero,32.89953250,-105.96026500,N6CID,OPEN,On-Air,DMR,1,,,,,On-Air,2024-02-04
+443.00000,448.00000,+,100.0,,"Rio Rancho - Rainbow",Sandoval,35.27439880,-106.73699951,NM5RR,OPEN,On-Air,Analog/analog,,,,27750,,On-Air,2023-01-26
+443.05000,448.05000,+,88.5,,"Clovis",Curry,34.40479870,-103.20522720,KC5VOX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-11-13
+443.07500,448.07500,+,100.0,100.0,"Cuba - Eureka Mesa",Sandoval,36.01368500,-106.84440700,W7FED,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-12-18
+443.10000,448.10000,+,100.0,,"San Ysidro - Pajarito Peak",Sandoval,35.69670105,-106.85900116,NM5SC,OPEN,On-Air,Analog/analog,,,,27748,Wide area,On-Air,2023-02-05
+443.15000,448.15000,+,,,"Santa Fe",Santa Fe,35.67871100,-105.99164600,WR7HLN,OPEN,On-Air,DMR,1,,,,,On-Air,2024-12-07
+443.15000,448.15000,+,,,"T or C - Caballo Peak",Sierra,32.96654100,-107.22774300,WR7HLN,OPEN,Testing,DMR,1,,,,Wide area,Testing,2025-08-20
+443.20000,448.20000,+,,,"Corrales",Sandoval,35.23780060,-106.60700226,N5QD,OPEN,On-Air,DMR,1,,,,,On-Air,2022-06-25
+443.25000,448.25000,+,,,"Mountainair - Capilla Peak",Torrance,34.68879000,-106.40944380,WR7HLN,OPEN,On-Air,DMR,1,,,,,On-Air,2022-12-29
+443.30000,448.30000,+,,,"Albuquerque - Sandia Crest",Bernalillo,35.21674700,-106.45261500,WR7HLN,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2023-03-01
+443.35000,448.35000,+,,,"Grants - La Mosca Peak",Cibola,35.25292600,-107.59666400,WR7HLN,OPEN,On-Air,DMR,1,,,,,On-Air,2024-01-15
+443.40000,448.40000,+,100.0,,"Placitas - Sandia Peak",Sandoval,35.33599854,-106.44100189,NM5SV,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-26
+443.40000,448.40000,+,100.0,,"Placitas",Sandoval,35.30698450,-106.42474680,K6NM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-11-13
+443.42500,448.42500,+,100.0,,"Tome - Valencia Middle School",Valencia,34.73245400,-106.68128100,KJ5DZQ,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-11-09
+443.45000,448.45000,+,131.8,,"Clovis",Curry,34.40470123,-103.20500183,KA5B,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-05
+443.50000,438.50000,-,123.0,,"Albuquerque",Bernalillo,35.10964300,-106.49782300,KB5XE,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-12-17
+443.55000,448.55000,+,,,"Albuquerque - 9 Mile Hill",Bernalillo,35.06761400,-106.78076300,WR7HLN,OPEN,On-Air,DMR,1,,,,,On-Air,2022-06-28
+443.60000,448.60000,+,85.4,,"Ruidoso",Lincoln,33.33169937,-105.67299652,N5SN,OPEN,On-Air,Analog/analog,,1,,,,On-Air,2022-12-15
+443.65000,448.65000,+,100.0,,"Albuquerque - Petroglyph Natl Monument",Bernalillo,35.16189957,-106.72499847,NM5SH,OPEN,On-Air,DMR/analog,1,,,,,On-Air,2024-01-15
+443.75000,448.75000,+,100.0,,"Albuquerque - Sandia Peak",Bernalillo,35.21829987,-106.45099640,WA6CCB,CLOSED,On-Air,Analog/analog,,,,,,On-Air,2022-12-15
+443.75000,448.75000,+,100.0,,"Tucumcari - Tucumcari Mountain",Quay,35.13401000,-103.69914100,WA5EMA,OPEN,On-Air,Analog/analog,,406798,,,,On-Air,2025-08-20
+443.80000,448.80000,+,,,"Albuquerque - Sandia Crest",Bernalillo,35.21641800,-106.45225900,W5MPZ,OPEN,On-Air,DStar,,,,,Wide area,On-Air,2024-01-09
+443.80000,448.80000,+,,,"Portales - ENMU",Roosevelt,34.18000031,-103.34999847,KE5RUE,OPEN,On-Air,DStar,,,,,,On-Air,2022-02-12
+443.85000,448.85000,+,103.5,,"Albuquerque",Bernalillo,35.16609955,-106.54299927,KC0QIZ,OPEN,On-Air,Analog/analog,,881226,,,,On-Air,2022-12-17
+443.92500,448.92500,+,100.0,100.0,"Ruidoso - Buck Mtn",Lincoln,33.40390015,-105.78299713,K5RIC,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-01-03
+444.00000,449.00000,+,100.0,,"Albuquerque - Sandia Crest",Bernalillo,35.20976000,-106.44809600,W5CSY,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-08-02
+444.07500,449.07500,+,100.0,,"Mountainair - Capilla Peak",Torrance,34.69730000,-106.40430000,W5NES,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-08-20
+444.10000,449.10000,+,100.0,,"Albuquerque",Bernalillo,35.06290054,-106.51499939,KC5ZXW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-15
+444.12500,449.12500,+,131.8,,"Clovis",Curry,34.40479870,-103.20522720,K5UOT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2025-04-26
+444.15000,449.15000,+,100.0,127.3,"Tijeras - Manzanito Mtns",Bernalillo,34.98619900,-106.34478700,K5CQH,OPEN,On-Air,Analog/analog,,3061,,,,On-Air,2022-12-29
+444.15000,449.15000,+,,,"Farmington",San Juan,36.72809982,-108.21900177,KF5VBF,OPEN,On-Air,DStar,,,,,,On-Air,2022-12-16
+444.20000,449.20000,+,67.0,,"Albuquerque",Bernalillo,35.23781970,-106.60669260,N5UJC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-11-09
+444.22500,449.22500,+,141.3,,"White Rock",Los Alamos,35.81000000,-106.21000000,W7FED,OPEN,Unknown,Analog/analog,,,,270511,,Unknown,2025-06-23
+444.25000,449.25000,+,100.0,100.0,"Jal",Lea,32.20840073,-103.52899933,N5LEA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-02
+444.27500,449.27500,+,162.2,162.2,"Hobbs - Professional Communications Tower",Lea,32.66719818,-103.12699890,AH2AZ,OPEN,On-Air,Analog/analog,,,,45885,,On-Air,2022-08-02
+444.30000,449.30000,+,,,"Roswell",Chaves,33.39426550,-104.52302420,KJ5UFO,OPEN,On-Air,DMR,1,,,,,On-Air,2021-09-19
+444.30000,449.30000,+,,,"Chama - Rabbit Peak",Rio Arriba,36.89944400,-106.60202800,WR7HLN,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2024-07-06
+444.32500,449.32500,+,100.0,,"Albuquerque - Sandia Crest",Bernalillo,35.21672000,-106.45197000,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-08-02
+444.35000,449.35000,+,100.0,,"Eagle Nest - Iron Mtn",Colfax,36.59999847,-105.25000000,NM5ML,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-22
+444.35000,449.35000,+,162.2,162.2,"Maljamar - KBIM",Lea,33.05555600,-103.82055600,N5LEA,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-04-22
+444.35000,449.35000,+,123.0,,"Edgewood",Santa Fe,35.06143580,-106.19141410,W0ZW,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-12-13
+444.37500,449.37500,+,67.0,,"Ruidoso - Buck Mtn",Lincoln,33.40449905,-105.78199768,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-07-22
+444.37500,449.37500,+,100.0,,"Las Vegas - Mesa Apache",San Miguel,35.40399933,-105.19300079,WA5IHL,CLOSED,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-12-29
+444.40000,449.40000,+,,,"Ruidoso - Buck Mtn",Lincoln,33.40459824,-105.78199768,W5JXT,OPEN,On-Air,DMR,1,,,,,On-Air,2022-12-19
+444.40000,449.40000,+,100.0,,"Wagon Mound",Mora,36.00889969,-104.70600128,N7JNI,OPEN,Unknown,Analog/analog,,,,,,Unknown,2024-04-11
+444.42500,449.42500,+,,,"Roswell - Comanche Hill",Chaves,33.40829849,-104.37400055,W5ZU,OPEN,On-Air,DStar,,,,,,On-Air,2022-06-25
+444.45000,449.45000,+,71.9,71.9,"Clovis",Curry,34.41479874,-103.18499756,WS5D,OPEN,On-Air,Analog/analog,,,3713,523981,,On-Air,2022-08-06
+444.45000,449.45000,+,127.3,127.3,"Carlsbad",Eddy,32.39680099,-104.19100189,N5MJ,OPEN,On-Air,Analog/analog,,44167,,,,On-Air,2021-09-19
+444.50000,449.50000,+,,,"Socorro - M Mtn",Socorro,34.07170105,-106.96299744,W5AQA,OPEN,On-Air,DStar,,,,,,On-Air,2022-11-03
+444.52500,449.52500,+,,,"Belen - Capilla Peak",Torrance,34.70140076,-106.40100098,W5URD,OPEN,On-Air,DStar,,,,,Wide area,On-Air,2024-10-21
+444.55000,449.55000,+,162.2,162.2,"Roswell - Comanche Hill",Chaves,33.40168000,-104.37994300,W5GNB,OPEN,On-Air,Analog/analog,,383142,,,,On-Air,2022-12-15
+444.57500,449.57500,+,,,"Santa Fe - Food Depot",Santa Fe,35.65800000,-105.99500000,W5SF,OPEN,On-Air,DStar,,,,,,On-Air,2024-10-21
+444.60000,449.60000,+,,,"Albuquerque",Bernalillo,35.07920074,-106.48899841,N5GU,OPEN,On-Air,DMR,1,,,,,On-Air,2022-11-03
+444.65000,449.65000,+,88.5,,"Grants - Oso Ridge",Cibola,35.14504170,-107.82775240,K5EMO,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2025-01-03
+444.70000,449.70000,+,100.0,100.0,"Rio Rancho - Intel Corp",Sandoval,35.22499847,-106.66000366,KG5WED,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-10
+444.75000,449.75000,+,100.0,88.5,"Socorro - West Peak",Socorro,34.07170105,-106.96299744,N5IA,CLOSED,Unknown,Analog/analog,,,,,,Unknown,2022-12-16
+444.77500,449.77500,+,131.8,127.3,"Los Alamos - Pajarito Mtn",Los Alamos,35.88610000,-106.38930000,WD9CMS,OPEN,On-Air,P25/analog,303,,,,,On-Air,2023-02-05
+444.80000,449.80000,+,67.0,,"Grants - La Mosca Peak",Cibola,35.25260000,-107.59660000,NM5ML,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2024-01-28
+444.82500,449.82500,+,,,"Albuquerque",Bernalillo,35.08438590,-106.65042200,KA5ABQ,OPEN,On-Air,YSF,,,,,,On-Air,2024-11-09
+444.95000,449.95000,+,,,"Roswell - Comanche Hill",Chaves,33.39649963,-104.38200378,W5JXT,OPEN,On-Air,DMR,1,,,,,On-Air,2022-06-25
+444.95000,449.95000,+,151.4,151.4,"Cubero",Cibola,35.18623000,-107.60131000,KE5FYL,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2024-07-30
+444.97500,449.97500,+,100.0,100.0,"Grants - La Mosca Peak",Cibola,35.25313000,-107.59662000,K5EMO,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2024-09-20
+444.97500,449.97500,+,156.7,,"Artesia",Eddy,32.84230042,-104.40299988,W5COW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-22
+444.97500,449.97500,+,,,"Alamogordo",Otero,32.81240082,-105.78099823,N6CID,OPEN,On-Air,DMR/analog,1,,,,,On-Air,2024-01-07
+444.97500,449.97500,+,123.0,,"Taos - Ski Valley",Taos,36.56700000,-105.44800000,N5TSV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-03
+445.98750,440.98750,-,151.4,151.4,"High Rolls - Karr Canyon",Otero,32.92250000,-105.81800000,KE7KUS,OPEN,On-Air,YSF/analog,1,228936,,,,On-Air,2024-03-27
+446.77500,441.77500,-,,,"Raton - Raton Pass",Colfax,36.99250031,-104.47399902,KD0RDI,OPEN,On-Air,DStar,,,,,,On-Air,2024-10-21
+447.27500,442.27500,-,71.9,71.9,"McIntosh - McIntosh Post Office",Torrance,34.84149933,-106.13099670,KB5VPZ,OPEN,On-Air,Analog/analog,,943044,,,,On-Air,2023-04-11
+447.30000,442.30000,-,141.3,,"Albuquerque",Bernalillo,35.09472000,-106.57743100,KI6EAY,PRIVATE,On-Air,Analog/analog,,,,427274,,On-Air,2022-08-31
+447.45000,442.45000,-,107.2,,"Aztec",San Juan,36.82220078,-107.99199677,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+447.56250,442.56250,-,100.0,100.0,"Alamogordo - White Sands Nat Monument",Otero,32.89950000,-105.96020000,KA5PAL,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-06-25
+447.77500,442.77500,-,100.0,,"Santa Fe",Santa Fe,35.64799881,-105.98500061,KF5SGT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-09-21
+447.85000,442.85000,-,131.8,131.8,"Truth or Consequences - Caballo",Sierra,33.12830900,-107.25472650,W7FED,OPEN,On-Air,Analog/analog,,,,270513,Wide area,On-Air,2024-12-18
+448.17500,443.17500,-,100.0,,"Caballo - Caballo Peak",Sierra,33.13309860,-107.23500061,N5IA,PRIVATE,On-Air,Analog/analog,,,,,,On-Air,2022-12-02
+448.20000,443.20000,-,100.0,,"Las Cruces - Twin Peaks",Dona Ana,32.40000153,-106.76000214,N5BL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-19
+448.20000,443.20000,-,100.0,,"Gallup - Deza Bluffs",McKinley,35.90309906,-108.77200317,KC5WDV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-17
+448.30000,443.30000,-,100.0,,"Pinos Altos",Grant,32.86339951,-108.22100067,N5IA,CLOSED,On-Air,Analog/analog,,,,,,On-Air,2021-09-25
+448.50000,443.50000,-,,,"Caballo - Caballo Peak",Sierra,32.97176800,-107.22307400,NM5C,OPEN,On-Air,DMR,1,249171,3409,,,On-Air,2023-02-19
+448.65000,443.65000,-,127.3,,"Bloomfield",San Juan,36.71110153,-107.98500061,KB5ITS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-12
+448.72500,443.72500,-,100.0,,"Deming - Little Florida Mtn",Luna,32.19279861,-107.60500336,N5IA,PRIVATE,On-Air,Analog/analog,,,,,,On-Air,2024-01-05
+448.77500,443.77500,-,103.5,103.5,"Glenwood - Brushy Mtn",Catron,33.98899841,-108.96099854,WY5G,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-16
+448.80000,443.80000,-,100.0,100.0,"Silver City",Grant,32.77000046,-108.27999878,WY5G,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-12
+448.87500,443.87500,-,100.0,,"Silver City",Grant,32.77000046,-108.27999878,WA7ACA,OPEN,Unknown,Analog/analog,,,,,,Unknown,0000-00-00
+448.97500,443.97500,-,114.8,,"Caballo - Caballo Peak",Sierra,33.97050095,-107.22499847,N5IA,PRIVATE,On-Air,Analog/analog,,,,,,On-Air,2022-12-31
+449.00000,444.00000,-,100.0,,"Lordsburg - Jack's Peak",Hidalgo,32.35279846,-108.69999695,N5IA,PRIVATE,On-Air,Analog/analog,,,,,,On-Air,2022-12-16
+449.00000,444.00000,-,100.0,,"Farmington",San Juan,36.72809982,-108.21800232,K5WY,OPEN,Unknown,Analog/analog,,,,,,Unknown,0000-00-00
+449.30000,444.30000,-,100.0,,"Rio Rancho",Sandoval,35.27443900,-106.69680100,W5BI,OPEN,On-Air,Analog/analog,,,,27610,,On-Air,2022-08-06
+449.47500,444.47500,-,77.0,,"Deming",Luna,32.26860046,-107.75800323,WA6RT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-02
+449.55000,444.55000,-,71.9,,"Albuquerque - Op Ctr",Bernalillo,35.05780029,-106.58699799,K5FIQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-06-04
+449.75000,444.75000,-,,,"Las Cruces - Talavera",Dona Ana,32.30000000,-106.62000000,KA5ECS,OPEN,On-Air,DMR,1,,,,,On-Air,2021-09-19
+449.75000,444.75000,-,100.0,,"Gallup",McKinley,35.60600000,-108.69000000,KC5WDV,OPEN,On-Air,Analog/analog,,6810,,,,On-Air,2022-12-17
+449.85000,444.85000,-,100.0,,"Deming",Luna,32.26860046,-107.75800323,N5WSB,OPEN,Unknown,Analog/analog,,,,,,Unknown,0000-00-00
+449.87500,444.87500,-,123.0,,"Taos - Holy Cross",Taos,36.36690000,-105.57650000,KF5PFO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-03
+449.90000,444.90000,-,100.0,100.0,"Tres Piedras - San Antonio Mtn",Taos,36.85973790,-106.01890760,WA5IHL,CLOSED,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-01-02
+927.03750,927.03750,x,100.0,,"Edgewood",Santa Fe,35.06143580,-106.19141410,KF5RRW,OPEN,On-Air,Analog/analog,,,,518640,,On-Air,2025-01-03
+927.30000,902.30000,-,141.3,,"Albuquerque - Sandia Crest",Bernalillo,35.21674700,-106.45250700,WR7HLN,OPEN,On-Air,DMR,,,,,Wide area,On-Air,2024-08-02
+927.33750,902.33750,-,131.8,,"Albuquerque - Sandia Crest",Bernalillo,35.21612800,-106.45121700,WD9CMS,OPEN,On-Air,P25/analog,293,,,,Wide area,On-Air,2022-08-02
+927.35000,902.35000,-,,,"Grants - La Mosca Peak",Cibola,35.25256200,-107.59659300,WR7HLN,OPEN,On-Air,DMR,1,,,,,On-Air,2023-09-05
+927.53750,902.53750,-,131.8,,"Bloomfield - Huerfano Mesa",San Juan,36.42230000,-107.84550000,N5UBJ,OPEN,Unknown,P25,293,,,,,Unknown,2021-02-10
+927.55000,902.55000,-,,,"Albuquerque - West Mesa",Bernalillo,35.06761400,-106.78076300,WR7HLN,OPEN,Testing,DMR,1,,,,,Testing,2023-09-05
+927.65000,902.65000,-,151.4,,"Albuquerque",Bernalillo,35.06679916,-106.51599884,KC5ZXW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-13
+927.87500,902.02500,-,,,"Raton - Raton Pass",Colfax,36.99253400,-104.47391400,WA6IFI,OPEN,Unknown,P25,293,,,,,Unknown,2021-07-22
+927.88750,902.88750,-,131.8,,"Farmington - College Hill",San Juan,36.76200000,-108.18200000,N5UBJ,OPEN,Unknown,P25/analog,293,,,,,Unknown,2021-06-04
+927.90000,902.90000,-,131.8,,"Los Alamos",Los Alamos,35.88000107,-106.30300140,WD9CMS,OPEN,On-Air,P25/analog,293,,,,,On-Air,2023-11-09
+1283.96250,1271.96250,-,,,"Albuquerque - Sandia Crest",Bernalillo,35.21500000,-106.45000000,W5MPZ,OPEN,On-Air,DStar,,,,,,On-Air,2023-02-19
+1291.10000,1271.10000,-,,,"Aztec",San Juan,36.78229904,-107.98799896,KF5VBE,CLOSED,On-Air,DStar,,,,,,On-Air,2022-11-03
+1291.70000,1271.70000,-,,,"Farmington - Farmington Bluffs",San Juan,36.70830154,-108.22599792,KF5VBF,CLOSED,On-Air,DStar,,,,,,On-Air,2022-12-16
+1293.90000,1273.90000,-,127.3,,"Organ",Dona Ana,32.42559814,-106.59600067,KC5SJQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-16
+1299.90000,1299.90000,x,,,"Albuquerque - Sandia Crest",Bernalillo,35.21496900,-106.45035700,W5MPZ,OPEN,On-Air,DStar,,,,,,On-Air,2025-01-02
