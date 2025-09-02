@@ -102,7 +102,10 @@ with open(input_file, mode='r', newline='', encoding='utf-8') as infile, \
         try:
             out_freq = float(row.get('Output Freq', 0))
             in_freq = float(row.get('Input Freq', 0))
-
+            tone = row.get('Uplink Tone', '')  # Set TONE to 'Tone' if uplink_tone is provided
+            if tone:
+                tone = "TONE"       
+    
             # Skip rows with unsupported frequencies
             if not is_supported_band(out_freq):
                 continue  # Skip this row
@@ -117,16 +120,9 @@ with open(input_file, mode='r', newline='', encoding='utf-8') as infile, \
             out_freq = in_freq = offset = 0.0
             dup = "0"
 
-
-
         lat = row.get('Lat', 0)
         long = row.get('Long', 0)
  
- 
-    tone = row.get('Uplink Tone', '')  # Set TONE to 'Tone' if uplink_tone is provided
-    if tone:
-        tone = "TONE"       
-       
         # Get Repeater and Gateway Call Signs
         repeater_call = row.get('Call', '')
         gateway_call = row.get('Gateway Call', '')

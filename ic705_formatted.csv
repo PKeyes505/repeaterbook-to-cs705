@@ -1,1 +1,299 @@
 Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset
+21,NewMexico,Farmington,San Juan,KB5ITS,,53.01000,+,0.5,FM,TONE,,NO,Exact,36.72809982,-108.21800232,--:--
+21,NewMexico,Carlsbad,Eddy,KD6WJG,,53.08000,+,0.5,FM,TONE,,NO,Exact,32.42070007,-104.22899628,--:--
+21,NewMexico,Alamogordo,Otero,KA5BYL,,53.41000,+,0.5,FM,,,NO,Exact,32.89939880,-105.95999908,--:--
+21,NewMexico,Las Cruces,Dona Ana,N5BL,,53.75000,+,1.0,FM,TONE,,NO,Exact,32.31993960,-106.76365380,--:--
+21,NewMexico,Alamogordo - La Luz,Otero,W6DHS,,144.96000,+,0.4,FM,,,NO,Exact,32.89950180,-105.95999908,--:--
+21,NewMexico,Pinos Altos,Grant,NM5ML,,145.11500,+,0.6,FM,TONE,,NO,Exact,32.74819946,-108.16600037,--:--
+21,NewMexico,Farmington,San Juan,KF5VBE,,145.11500,+,0.6,FM,,,NO,Exact,36.78170013,-107.98999786,--:--
+21,NewMexico,Albuquerque - Fire Sta 35,Bernalillo,NM5BC,,145.13000,+,0.6,FM,TONE,100.0,NO,Exact,35.17350006,-106.51000214,--:--
+21,NewMexico,Caballo - Caballo Peak,Sierra,NM5EM,,145.13000,+,0.6,FM,TONE,,NO,Exact,33.13309860,-107.23500061,--:--
+21,NewMexico,Tijeras - Cedro Peak,Bernalillo,NM5BC_1,,145.15000,+,0.6,FM,TONE,100.0,NO,Exact,35.05300140,-106.35199738,--:--
+21,NewMexico,Lordsburg - Jack's Peak,Hidalgo,N5IA,,145.17000,+,0.6,FM,TONE,,NO,Exact,32.58300018,-108.42500305,--:--
+21,NewMexico,Cuba - Eureka Mesa,Sandoval,NM5EM_1,,145.17500,+,0.6,FM,TONE,156.7,NO,Exact,36.01338400,-106.84455900,--:--
+21,NewMexico,Socorro - Socorro Peak,Socorro,NM5EM_2,,145.17500,+,0.6,FM,TONE,141.3,NO,Exact,34.05839920,-106.89099884,--:--
+21,NewMexico,Tularosa,Otero,N6CID,,145.18000,+,0.6,DV,,,NO,Exact,33.07397300,-106.01860250,--:--
+21,NewMexico,Los Alamos - Pajarito Mtn,Los Alamos,W5SF,,145.19000,+,0.6,DV,TONE,162.2,NO,Exact,35.88669968,-106.39499664,--:--
+21,NewMexico,Los Alamos - Pajarito Mtn,Los Alamos,NM5EC,,145.19000,+,0.6,DV,,,NO,Exact,35.88669968,-106.39499664,--:--
+21,NewMexico,Maxwell - Eagle Tail Mtn,Colfax,N5GDR,,145.21000,+,0.6,FM,TONE,110.9,NO,Exact,36.68300000,-104.41500000,--:--
+21,NewMexico,Lordsburg - Jack's Peak,Hidalgo,K7EAR,,145.21000,+,0.6,FM,TONE,,NO,Exact,32.58269400,-108.42580300,--:--
+21,NewMexico,Santa Fe - Food Depot,Santa Fe,W5SF_1,,145.21000,+,0.6,FM,,,NO,Exact,35.65900000,-105.99600000,--:--
+21,NewMexico,Cloudcroft - Benson Ridge,Otero,K5KKO,,145.23000,+,0.6,FM,TONE,,NO,Exact,32.85810089,-105.71099854,--:--
+21,NewMexico,Cedar Crest,Bernalillo,K6EEN,,145.25000,+,0.6,FM,TONE,82.5,NO,Exact,35.12996800,-106.36581200,--:--
+21,NewMexico,Lordsburg - Jack's Peak,Hidalgo,N5IA_1,,145.25000,+,0.6,FM,TONE,,NO,Exact,32.35029984,-108.70800018,--:--
+21,NewMexico,Caprock - Caudill Ranch,Lea,NM5EM_3,,145.25000,+,0.6,FM,TONE,,NO,Exact,33.39210129,-103.71199799,--:--
+21,NewMexico,Red River - Valle Vidal,Taos,KF5PFO,,145.25000,+,0.6,FM,TONE,,NO,Exact,36.75999832,-105.30999756,--:--
+21,NewMexico,Luna - South Mtn,Catron,K7EAR_1,,145.27000,+,0.6,FM,TONE,,NO,Exact,33.82700000,-109.17000000,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,NM5ML_1,,145.29000,+,0.6,FM,TONE,,NO,Exact,35.20890045,-106.44699860,--:--
+21,NewMexico,Caballo - Caballo Peak,Sierra,K5URR,,145.31000,+,0.6,FM,TONE,,NO,Exact,32.97153800,-107.22647000,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,W5CSY,,145.33000,+,0.6,FM,TONE,,NO,Exact,35.20890045,-106.44699860,--:--
+21,NewMexico,Alamogordo - Long Ridge,Otero,WA5IHL,,145.35000,+,0.6,FM,TONE,,NO,Exact,32.83309937,-105.88300323,--:--
+21,NewMexico,Edgewood,Bernalillo,KF5MEF,,145.37000,+,0.6,FM,TONE,,NO,Exact,35.06344100,-106.17920800,--:--
+21,NewMexico,Clovis - Claud,Curry,NM5EM_4,,145.37000,+,0.6,FM,TONE,,NO,Exact,34.40480042,-103.20500183,--:--
+21,NewMexico,Wagon Mound - Turkey Mtn,Mora,NM5EM_5,,145.37000,+,0.6,FM,TONE,,NO,Exact,35.98400116,-104.90100098,--:--
+21,NewMexico,Cloudcroft - Benson Ridge,Otero,NM5EM_6,,145.37000,+,0.6,FM,TONE,,NO,Exact,32.95729828,-105.74199677,--:--
+21,NewMexico,Edgewood,Santa Fe,KF5MEF_1,,145.37000,+,0.6,FM,TONE,,NO,Exact,35.06140000,-106.19140000,--:--
+21,NewMexico,Cubero,Cibola,KE5FYL,,145.39000,+,0.6,FM,TONE,127.3,NO,Exact,35.13005530,-107.65779960,--:--
+21,NewMexico,Red River,Taos,KF5PFO_1,,145.39000,+,0.6,FM,TONE,,NO,Exact,36.69300079,-105.51399994,--:--
+21,NewMexico,La Cueva,Sandoval,W5HO,,145.41000,+,0.6,FM,TONE,,NO,Exact,35.86729813,-106.63800049,--:--
+21,NewMexico,Columbus,Luna,W5DAR,,145.43000,+,0.6,FM,TONE,,NO,Exact,31.82760048,-107.63999939,--:--
+21,NewMexico,Zuni - Black Rock,McKinley,KD5SAR,,145.43000,+,0.6,FM,TONE,,NO,Exact,35.11500000,-108.73920000,--:--
+21,NewMexico,Los Lunas - Meadow Lake,Valencia,KC5OUR,,145.43000,+,0.6,DV,TONE,,NO,Exact,34.80540000,-106.54560000,--:--
+21,NewMexico,Ruidoso,Lincoln,KR5NM,,145.45000,+,0.6,FM,TONE,,NO,Exact,33.30939865,-105.65799713,--:--
+21,NewMexico,Caballo - Caballo Lake,Sierra,K7EAR_2,,145.47000,+,0.6,FM,TONE,,NO,Exact,33.13309860,-107.23500061,--:--
+21,NewMexico,Glenwood - Brushy Mtn,Catron,K5LME,,145.49000,+,0.6,FM,TONE,,NO,Exact,33.30300000,-108.93300000,--:--
+21,NewMexico,Raton,Colfax,N0DRC,,145.49000,+,0.6,FM,TONE,,NO,Exact,36.76000000,-104.40500000,--:--
+21,NewMexico,Lybrook,Rio Arriba,NM5SJ,,145.49000,+,0.6,FM,TONE,,NO,Exact,36.23329926,-107.56199646,--:--
+21,NewMexico,Corona - Gallinas Peak,Lincoln,NM5EM_7,,145.51500,+,0.6,FM,TONE,,NO,Exact,34.24440002,-105.79100037,--:--
+21,NewMexico,Capitan - Capitan Mountain,Lincoln,KR5NM_1,,146.61000,+,0.6,FM,TONE,,NO,Exact,33.60645542,-105.36043289,--:--
+21,NewMexico,Aztec - Hottel Hill,San Juan,KB5ITS_1,,146.61000,+,0.6,FM,TONE,,NO,Exact,36.80630112,-108.00199890,--:--
+21,NewMexico,Grants - MW Ridge,Bernalillo,K5URR_1,,146.64000,+,0.6,FM,TONE,67.0,NO,Exact,35.18880081,-107.59999847,--:--
+21,NewMexico,Roswell - NMMI,Chaves,N5MMI,,146.64000,+,0.6,FM,TONE,,NO,Exact,33.41230011,-104.52300262,--:--
+21,NewMexico,Las Cruces/ Twin Peaks,Dona Ana,N5BL_1,,146.64000,+,0.6,FM,TONE,,NO,Exact,32.40409851,-106.76300049,--:--
+21,NewMexico,Grants - Microwave Ridge,Cibola,NM5ML_2,,146.66000,+,0.6,FM,TONE,,NO,Exact,35.18910000,-107.59960000,--:--
+21,NewMexico,Roswell - Capitan Peak,Lincoln,WA5IHL_1,,146.66000,+,0.6,FM,TONE,,NO,Exact,33.59109879,-105.26499939,--:--
+21,NewMexico,Socorro - M Mtn,Socorro,W5AQA,,146.68000,+,0.6,FM,TONE,123.0,NO,Exact,34.07170105,-106.96299744,--:--
+21,NewMexico,Belen,Valencia,KC5OUR_1,,146.70000,+,0.6,DV,TONE,,NO,Exact,34.66279984,-106.77600098,--:--
+21,NewMexico,Tijeras,Bernalillo,K5CQH,,146.72000,+,0.6,FM,TONE,127.3,NO,Exact,34.98500061,-106.34500122,--:--
+21,NewMexico,Aztec,San Juan,NM5SJ_1,,146.74000,+,0.6,FM,TONE,,NO,Exact,36.82220078,-107.99199677,--:--
+21,NewMexico,Carlsbad,Eddy,KD6WJG_1,,146.76000,+,0.6,FM,TONE,,NO,Exact,32.42070007,-104.22899628,--:--
+21,NewMexico,Farmington,San Juan,KB5ITS_2,,146.76000,+,0.6,FM,TONE,100.0,NO,Exact,36.72809982,-108.21800232,--:--
+21,NewMexico,Caballo - Caballo Peak,Sierra,N5BL_2,,146.76000,+,0.6,FM,TONE,,NO,Exact,32.88759995,-107.26899719,--:--
+21,NewMexico,Tres Piedras - San Antonio Mtn,Taos,KF5PFO_2,,146.76000,+,0.6,FM,TONE,,NO,Exact,36.64690018,-105.96700287,--:--
+21,NewMexico,Organ - San Augustin Peak,Dona Ana,N5IAC,,146.78000,+,0.6,FM,TONE,,NO,Exact,32.42580032,-106.56700134,--:--
+21,NewMexico,Tres Piedras - San Antonio Mtn,Taos,KF5PFO_3,,146.78000,+,0.6,DV,,,NO,Exact,36.85900000,-106.01890000,--:--
+21,NewMexico,Portales,Roosevelt,KE5RUE,,146.82000,+,0.6,FM,TONE,,NO,Exact,34.18610001,-103.33399963,--:--
+21,NewMexico,Sanostee - Roof Butte,San Juan,NM5SJ_2,,146.82000,+,0.6,FM,TONE,,NO,Exact,36.46139908,-109.09600067,--:--
+21,NewMexico,Santa Fe - Tesuque Peak,Santa Fe,W5SF_2,,146.82000,+,0.6,FM,TONE,,NO,Exact,35.78499985,-105.78099823,--:--
+21,NewMexico,Apache Creek - Mangas Mtn,Catron,K5LME_1,,146.84000,+,0.6,FM,TONE,,NO,Exact,34.05196000,-108.30735000,--:--
+21,NewMexico,Las Cruces - Twin Peaks,Dona Ana,N5BL_3,,146.84000,+,0.6,FM,,,NO,Exact,32.40450000,-106.76220000,--:--
+21,NewMexico,Redlake ,Roosevelt,KE5RUE_1,,146.84000,+,0.6,FM,TONE,,NO,Exact,33.90000153,-103.50000000,--:--
+21,NewMexico,La Cueva,Sandoval,N9PGQ,,146.84000,+,0.6,FM,TONE,,NO,Exact,35.66600000,-106.74600000,--:--
+21,NewMexico,Farmington,San Juan,K5WXI,,146.85000,+,0.6,FM,TONE,100.0,NO,Exact,36.72809982,-108.21800232,--:--
+21,NewMexico,Carlsbad,Eddy,N5CNM,,146.88000,+,0.6,FM,TONE,,NO,Exact,32.41650009,-104.23000336,--:--
+21,NewMexico,Los Alamos - Barranca Mesa,Los Alamos,W5PDO,,146.88000,+,0.6,FM,,,NO,Exact,35.90269852,-106.28199768,--:--
+21,NewMexico,Aztec - Tank Mtn,San Juan,KB5ITS_3,,146.88000,+,0.6,FM,TONE,,NO,Exact,36.82220078,-107.99299622,--:--
+21,NewMexico,Albuquerque - Op Ctr,Bernalillo,K5FIQ,,146.90000,+,0.6,FM,TONE,,NO,Exact,35.05780029,-106.58699799,--:--
+21,NewMexico,Ruidoso - Alto Crest,Lincoln,KR5NM_2,,146.92000,+,0.6,FM,TONE,,NO,Exact,33.38639832,-105.67099762,--:--
+21,NewMexico,Bloomfield,San Juan,K5WXI_1,,146.92000,+,0.6,FM,TONE,,NO,Exact,36.71110153,-107.98400116,--:--
+21,NewMexico,Roswell,Chaves,KJ5UFO,,146.94000,+,0.6,FM,,,NO,Exact,33.39419937,-104.52200317,--:--
+21,NewMexico,Grants - Mt Taylor,Cibola,K5URR_2,,146.94000,+,0.6,FM,TONE,,NO,Exact,35.23860168,-107.60800171,--:--
+21,NewMexico,Belen - Capilla Peak,Torrance,K5URR_3,,146.96000,+,0.6,FM,TONE,88.5,NO,Exact,34.70140076,-106.40100098,--:--
+21,NewMexico,Grants - Mt Taylor,Cibola,NM5EM_8,,146.98000,+,0.6,FM,TONE,141.3,NO,Exact,35.25249863,-107.59700012,--:--
+21,NewMexico,Silver City - Black Peak,Grant,K5GAR,,146.98000,+,0.6,FM,TONE,,NO,Exact,32.90947800,-108.16219100,--:--
+21,NewMexico,Ruidoso - Buck Mtn,Lincoln,K5RIC,,146.98000,+,0.6,FM,TONE,100.0,NO,Exact,33.33169937,-105.67299652,--:--
+21,NewMexico,High Rolls,Otero,KF5MQH,,147.00000,-,0.6,DV,TONE,100.0,NO,Exact,32.93989944,-105.84200287,--:--
+21,NewMexico,Portales - ENMU,Roosevelt,W5OMU,,147.00000,-,0.6,FM,TONE,,NO,Exact,34.18069839,-103.35199738,--:--
+21,NewMexico,Midway (Portales),Roosevelt,KE5RUE_2,,147.00000,-,0.6,FM,TONE,,NO,Exact,34.25000000,-103.23000336,--:--
+21,NewMexico,Farmington - College Hill,San Juan,KB5ITS_4,,147.00000,-,0.6,FM,TONE,,NO,Exact,36.76200000,-108.18200000,--:--
+21,NewMexico,Deming - Little Florida Mtn,Luna,NM5ML_3,,147.02000,-,0.6,FM,TONE,,NO,Exact,32.26860046,-107.75800323,--:--
+21,NewMexico,Santa Fe - Tesuque Peak,Santa Fe,NM5EM_9,,147.02000,-,0.6,FM,TONE,,NO,Exact,35.78530121,-105.78199768,--:--
+21,NewMexico,Datil - Davenport Lookout,Catron,NM5ML_4,,147.04000,-,0.6,FM,TONE,,NO,Exact,34.28359985,-107.91300201,--:--
+21,NewMexico,Eagle Nest - Touch Me Not,Colfax,NM5EM_10,,147.04000,-,0.6,FM,TONE,,NO,Exact,36.57799911,-105.19799805,--:--
+21,NewMexico,Santa Rosa - Moon Ranch,Guadalupe,NM5EM_11,,147.04000,-,0.6,FM,TONE,141.3,NO,Exact,34.93870163,-104.68199921,--:--
+21,NewMexico,Deming - Little Florida Mtn,Luna,K5ELP,,147.04000,-,0.6,FM,TONE,,NO,Exact,32.19400000,-107.60800000,--:--
+21,NewMexico,Deming - Little Florida Mtn,Luna,K7EAR_3,,147.06000,-,0.6,FM,TONE,,NO,Exact,32.19279861,-107.60500336,--:--
+21,NewMexico,Clines Corners - Tapia Mesa,San Miguel,K5FIQ_1,,147.06000,-,0.6,FM,TONE,,NO,Exact,35.04779816,-105.62999725,--:--
+21,NewMexico,Deming,Luna,W5JX,,147.08000,-,0.6,FM,,,NO,Exact,32.26869965,-107.75900269,--:--
+21,NewMexico,Chama - Overlook Mtn,Rio Arriba,W5SF_3,,147.08000,-,0.6,FM,TONE,,NO,Exact,36.90999985,-106.58000183,--:--
+21,NewMexico,Placitas - La Madera,Sandoval,NM5SC,,147.08000,-,0.6,FM,TONE,,NO,Exact,35.30749893,-106.45700073,--:--
+21,NewMexico,Reserve - Eagle Peak,Catron,K5LME_2,,147.10000,-,0.6,FM,TONE,,NO,Exact,33.67673000,-108.57694000,--:--
+21,NewMexico,Jal,Lea,N5SVI,,147.10000,-,0.6,FM,,,NO,Exact,32.11309814,-103.19300079,--:--
+21,NewMexico,Bloomfield - Harris Mesa,San Juan,KB5ITS_5,,147.10000,-,0.6,FM,TONE,,NO,Exact,36.61000061,-107.80999756,--:--
+21,NewMexico,Rio Rancho - Rainbow,Sandoval,NM5RR,,147.10000,-,0.6,FM,TONE,100.0,NO,Exact,35.27439880,-106.73699951,--:--
+21,NewMexico,Carlsbad - Dark Canyon,Eddy,N5SOR,,147.12000,-,0.6,FM,TONE,,NO,Exact,32.27550125,-104.45300293,--:--
+21,NewMexico,Taos - Picuris Peak,Taos,W5TYL,,147.12000,-,0.6,FM,TONE,,NO,Exact,36.24689865,-105.65399933,--:--
+21,NewMexico,Bosque Farms,Valencia,KC5OUR_2,,147.12000,-,0.6,DV,TONE,,NO,Exact,34.85300000,-106.69800000,--:--
+21,NewMexico,Datil - Luera Peak,Catron,NM5ML_5,,147.14000,-,0.6,FM,TONE,,NO,Exact,33.82640076,-107.87699890,--:--
+21,NewMexico,Fort Sumner,Debaca,KB5ZFA,,147.14000,-,0.6,FM,TONE,,NO,Exact,34.47169876,-104.24500275,--:--
+21,NewMexico,Maljamar,Lea,,,147.14000,-,0.6,FM,TONE,,NO,Exact,32.85609818,-103.76200104,--:--
+21,NewMexico,Taos - Ski Valley,Taos,NM5ML_6,,147.14000,-,0.6,FM,TONE,,NO,Exact,36.59780121,-105.44499969,--:--
+21,NewMexico,Arboles - Spring Creek,San Juan,KB5ITS_6,,147.15000,-,0.6,FM,TONE,,NO,Exact,37.11000000,-107.63000000,--:--
+21,NewMexico,Des Moines - Sierra Grande,Union,NM5EM_12,,147.17500,-,0.6,FM,TONE,,NO,Exact,36.76110077,-103.83399963,--:--
+21,NewMexico,Roswell,Chaves,W5JXT,,147.18000,-,0.6,DV,TONE,,NO,Exact,33.39426550,-104.52302420,--:--
+21,NewMexico,Grants - I-40 Exit 81,Cibola,KE5FYL_1,,147.18000,-,0.6,FM,TONE,CSQ,NO,Exact,35.13273500,-107.88849000,--:--
+21,NewMexico,Dixon - Cerro Abajo,Rio Arriba,KD5PX,,147.18000,-,0.6,FM,TONE,100.0,NO,Exact,36.20809700,-105.90045000,--:--
+21,NewMexico,Wagon Mound - Turkey Mtn,Mora,NM5ML_7,,147.20000,-,0.6,FM,TONE,,NO,Exact,35.98429871,-104.90100098,--:--
+21,NewMexico,Santa Fe - St Vincent Hospital,Santa Fe,W5SF_4,,147.20000,-,0.6,FM,TONE,,NO,Exact,35.65930176,-105.94499969,--:--
+21,NewMexico,Magdalena - Gray Hill,Socorro,K5LME_3,,147.20000,+,0.6,FM,TONE,,NO,Exact,34.03800000,-107.44600000,--:--
+21,NewMexico,Hobbs,Lea,K5INW,,147.22000,-,0.6,FM,TONE,127.3,NO,Exact,32.78530121,-103.11799622,--:--
+21,NewMexico,Gallup - Deza Bluffs,McKinley,NM5ML_8,,147.22000,-,0.6,FM,TONE,,NO,Exact,35.90309906,-108.77200317,--:--
+21,NewMexico,Alamogordo - Alamo Peak,Otero,KE5MIQ,,147.22000,-,0.6,FM,TONE,151.4,NO,Exact,32.87250137,-105.81199646,--:--
+21,NewMexico,Tucumcari - Tucumcari Mtn,Quay,NM5ML_9,,147.22000,-,0.6,FM,TONE,,NO,Exact,35.13420105,-103.69899750,--:--
+21,NewMexico,Tres Piedras - San Antonio Mtn,Rio Arriba,NM5ML_10,,147.22000,-,0.6,FM,TONE,,NO,Exact,36.85969925,-106.01799774,--:--
+21,NewMexico,Clovis,Curry,KA5B,,147.24000,-,0.6,FM,TONE,,NO,Exact,34.40470123,-103.20500183,--:--
+21,NewMexico,Cuba - Eureka Mesa,Sandoval,NM5ML_11,,147.24000,-,0.6,FM,TONE,,NO,Exact,36.01359940,-106.84400177,--:--
+21,NewMexico,Socorro - Socorro Peak,Socorro,NM5ML_12,,147.24000,-,0.6,FM,TONE,88.5,NO,Exact,34.07139969,-106.96199799,--:--
+21,NewMexico,Roswell,Chaves,NM5ML_13,,147.26000,-,0.6,FM,TONE,,NO,Exact,33.39419937,-104.52200317,--:--
+21,NewMexico,Gallup - Gibson Peak,McKinley,KC5WDV,,147.26000,-,0.6,FM,TONE,,NO,Exact,35.60509872,-108.68499756,--:--
+21,NewMexico,Pecos - Elk Mtn,San Miguel,NM5ML_14,,147.26000,-,0.6,FM,TONE,,NO,Exact,35.76720047,-105.55400085,--:--
+21,NewMexico,Caballo - Caballo Peak,Sierra,NM5ML_15,,147.26000,-,0.6,FM,TONE,,NO,Exact,32.96950150,-107.22499847,--:--
+21,NewMexico,Raton - Sierra Grande,Colfax,_1,,147.28000,-,0.6,FM,TONE,,NO,Exact,36.90330124,-104.43900299,--:--
+21,NewMexico,Melrose,Curry,NM5ML_16,,147.28000,-,0.6,FM,TONE,,NO,Exact,34.43030167,-103.63200378,--:--
+21,NewMexico,Carlsbad,Eddy,K5CNM,,147.28000,-,0.6,FM,TONE,123.0,NO,Exact,32.42070007,-104.22899628,--:--
+21,NewMexico,Corona - Gallinas Peak,Lincoln,NM5ML_17,,147.28000,-,0.6,FM,TONE,,NO,Exact,34.24440002,-105.79100037,--:--
+21,NewMexico,Bloomfield - Harris Mesa,San Juan,NM5ML_18,,147.28000,-,0.6,FM,TONE,,NO,Exact,36.60670090,-107.80500031,--:--
+21,NewMexico,Reserve - Frisco Divide,Catron,K5LME_4,,147.30000,-,0.6,FM,TONE,,NO,Exact,33.75967000,-108.88599000,--:--
+21,NewMexico,Queen - Fire Station,Eddy,K5CNM_1,,147.30000,-,0.6,FM,TONE,,NO,Exact,32.19079971,-104.74600220,--:--
+21,NewMexico,Las Vegas - Elk Mtn,San Miguel,W5SF_5,,147.30000,-,0.6,FM,TONE,162.2,NO,Exact,35.76670074,-105.55300140,--:--
+21,NewMexico,Albuquerque,Bernalillo,K5LXP,,147.32000,-,0.6,FM,TONE,,NO,Exact,35.13059998,-106.49800110,--:--
+21,NewMexico,Roswell - Comanche Hill,Chaves,W5ZU,,147.32000,-,0.6,FM,TONE,146.2,NO,Exact,33.40168000,-104.37994300,--:--
+21,NewMexico,Clovis,Curry,WS5D,,147.32000,-,0.6,FM,TONE,71.9,NO,Exact,34.40480042,-103.20500183,--:--
+21,NewMexico,Tijeras - Cedro Peak,Bernalillo,NM5ML_19,,147.34000,-,0.6,FM,TONE,,NO,Exact,35.05310059,-106.35099792,--:--
+21,NewMexico,Angel Fire - Agua Fria Peak,Colfax,N5LEM,,147.34000,-,0.6,FM,TONE,,NO,Exact,36.36000061,-105.20999908,--:--
+21,NewMexico,Albuquerque,Bernalillo,KB5XE,,147.36000,-,0.6,FM,TONE,,NO,Exact,35.10919952,-106.49700165,--:--
+21,NewMexico,Reserve - Frisco Divide,Catron,_2,,147.36000,-,0.6,FM,TONE,,NO,Exact,33.75780106,-108.88500214,--:--
+21,NewMexico,Navajo Dam - Navajo Lake,San Juan,KB5ITS_7,,147.36000,-,0.6,FM,TONE,,NO,Exact,36.79999924,-107.62000275,--:--
+21,NewMexico,Conchas Dam - Mesa Rica,San Miguel,NM5ML_20,,147.36000,-,0.6,FM,TONE,,NO,Exact,35.23279953,-104.22299957,--:--
+21,NewMexico,Albuquerque,Bernalillo,K5GAS,,147.38000,-,0.6,FM,TONE,,NO,Exact,35.21656600,-106.45203300,--:--
+21,NewMexico,Hope,Eddy,K5CNM_2,,147.38000,-,0.6,FM,TONE,123.0,NO,Exact,32.81039810,-104.73300171,--:--
+21,NewMexico,Kenton,Union,WB5NJU,,147.39000,-,0.6,FM,TONE,,NO,Exact,36.90100098,-103.00299835,--:--
+21,NewMexico,Albuquerque,Bernalillo,W5MHG,,147.46500,0,0.0,FM,TONE,,NO,Exact,35.09460068,-106.55100250,--:--
+21,NewMexico,Grants - Rogers Rock,Cibola,KE5FYL_2,,147.52000,0,0.0,FM,,,NO,Exact,35.14726000,-107.85144660,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,KI6EAY,,147.57000,0,0.0,FM,,,NO,Exact,35.14230140,-106.64472230,--:--
+21,NewMexico,Clovis,Curry,K4USD,,434.97500,+,5.0,DV,,,NO,Exact,34.43159890,-103.20049520,--:--
+21,NewMexico,Hatch - Magdalena Peak,Luna,W7FED,,440.05000,-,5.0,FM,TONE,173.8,NO,Exact,32.49127000,-107.16613000,--:--
+21,NewMexico,Pecos - Rowe Mesa,San Miguel,KB5ZQE,,440.20000,-,5.0,FM,TONE,,NO,Exact,35.46280000,-105.65450000,--:--
+21,NewMexico,Farmington - FAA Hill,San Juan,N5UBJ,,440.30000,-,5.0,DV,,,NO,Exact,36.77850000,-108.18750000,--:--
+21,NewMexico,Los Alamos,Los Alamos,KA5BIW,,442.00000,-,5.0,FM,TONE,,NO,Exact,35.89199829,-106.28500366,--:--
+21,NewMexico,Window Rock,McKinley,KD7LEN,,442.00000,-,5.0,FM,TONE,,NO,Exact,35.68059921,-109.05300140,--:--
+21,NewMexico,Alamogordo - White Sands Nat Monument,Otero,KA5PAL,,442.02500,-,5.0,DV,TONE,100.0,NO,Exact,32.89950000,-105.96020000,--:--
+21,NewMexico,Albuquerque - West Mesa,Bernalillo,NM5BC_2,,442.05000,-,5.0,FM,TONE,100.0,NO,Exact,35.06700134,-106.70099640,--:--
+21,NewMexico,Columbus,Luna,KB0TYJ,,442.05000,-,5.0,FM,TONE,,NO,Exact,31.82814490,-107.63537210,--:--
+21,NewMexico,Maljamar,Lea,N5IMJ,,442.07500,-,5.0,FM,TONE,,NO,Exact,32.85609818,-103.76200104,--:--
+21,NewMexico,Tres Piedras - San Antonio Mtn,Rio Arriba,KF5PFO_4,,442.07500,-,5.0,FM,,,NO,Exact,36.85973790,-106.01890760,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,K5GAS_1,,442.10000,-,5.0,FM,TONE,,NO,Exact,35.20890045,-106.44699860,--:--
+21,NewMexico,La Cueva - Jemez Springs,Sandoval,N9PGQ_1,,442.12500,-,5.0,FM,TONE,,NO,Exact,35.69536000,-106.75650000,--:--
+21,NewMexico,Socorro - West Peak,Socorro,KC5ORO,,442.12500,-,5.0,FM,TONE,123.0,NO,Exact,34.07490158,-106.96900177,--:--
+21,NewMexico,Albuquerque - Isleta Pueblo,Bernalillo,AB1Q,,442.15000,-,5.0,FM,TONE,,NO,Exact,34.90999985,-106.69999695,--:--
+21,NewMexico,Clovis,Curry,K4USD_1,,442.17500,-,5.0,DV,,,NO,Exact,34.43064000,-103.19627000,--:--
+21,NewMexico,Taos - Picuris Peak,Taos,KF5PFO_5,,442.17500,-,5.0,DV,,,NO,Exact,36.24700000,-105.65500000,--:--
+21,NewMexico,Los Alamos - Pajarito Mtn,Los Alamos,NM5BB,,442.22500,-,5.0,DV,,,NO,Exact,35.88669968,-106.39499664,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,WA5IHL_2,,442.25000,-,5.0,DV,,,NO,Exact,35.06000137,-106.76999664,--:--
+21,NewMexico,Redlake,Roosevelt,KE5RUE_3,,442.25000,-,5.0,FM,TONE,,NO,Exact,33.90000153,-103.50000000,--:--
+21,NewMexico,Aztec - Knickerbocker Peak,San Juan,N5UBJ_1,,442.25000,-,5.0,DV,,,NO,Exact,36.82220078,-107.99299622,--:--
+21,NewMexico,Milan - I-40 Exit 79,Cibola,K5HLH,,442.27500,-,5.0,FM,TONE,107.2,NO,Exact,35.20966000,-107.91117000,--:--
+21,NewMexico,Alamogordo - Lady of the Mtn,Otero,N6CID_1,,442.30000,-,5.0,DV,,,NO,Exact,32.85905000,-105.93216700,--:--
+21,NewMexico,Santa Fe - Tesuque Peak,Santa Fe,WR7HLN,,442.30000,+,5.0,DV,,,NO,Exact,35.78501000,-105.78206000,--:--
+21,NewMexico,Clovis,Curry,K5NEC,,442.32500,-,5.0,DV,,,NO,Exact,34.41760300,-103.22758600,--:--
+21,NewMexico,Farmington,San Juan,N5UBJ_2,,442.32500,-,5.0,DV,,,NO,Exact,36.72809982,-108.21900177,--:--
+21,NewMexico,Rio Rancho,Sandoval,WA5OLD,,442.35000,-,5.0,FM,TONE,,NO,Exact,35.27550125,-106.61799622,--:--
+21,NewMexico,Roswell,Chaves,W7FED_1,,442.37500,-,5.0,FM,TONE,,NO,Exact,33.39425280,-104.52269580,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,W7FED_2,,442.40000,-,5.0,FM,,,NO,Exact,35.21741000,-106.45308700,--:--
+21,NewMexico,Tularosa,Otero,N6CID_2,,442.40000,-,5.0,DV,,,NO,Exact,33.07397300,-106.01860250,--:--
+21,NewMexico,Los Alamos,Los Alamos,NM5WR,,442.42500,-,5.0,FM,,,NO,Exact,35.88809967,-106.30699921,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,K5FIQ_2,,442.45000,-,5.0,FM,TONE,67.0,NO,Exact,35.08440018,-106.65000153,--:--
+21,NewMexico,Artesia,Eddy,K5CNM_3,,442.45000,-,5.0,FM,TONE,,NO,Exact,32.84230042,-104.40299988,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,NO5DE,,442.47500,-,5.0,FM,TONE,,NO,Exact,35.19593650,-106.43397300,--:--
+21,NewMexico,Alamogordo - White Sands,Otero,N6CID_3,,442.50000,-,5.0,FM,TONE,100.0,NO,Exact,32.88097470,-105.96022710,--:--
+21,NewMexico,Clovis,Curry,NM5ML_21,,442.52500,-,5.0,FM,TONE,,NO,Exact,34.40470123,-103.20500183,--:--
+21,NewMexico,Rio Rancho,Sandoval,NM5SH,,442.52500,-,5.0,DV,,,NO,Exact,35.24150000,-106.77190000,--:--
+21,NewMexico,Alamogordo - Long Ridge,Otero,KD5OH,,442.57500,-,5.0,FM,TONE,,NO,Exact,32.89953250,-105.96026500,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,W7FED_3,,442.60000,-,5.0,FM,TONE,100.0,NO,Exact,35.21707500,-106.45246600,--:--
+21,NewMexico,Alamogordo - Long Ridge,Otero,KD5OH_1,,442.65000,-,5.0,DV,,,NO,Exact,32.83000000,-105.88700000,--:--
+21,NewMexico,Albuquerque,Bernalillo,W7FED_4,,442.67500,-,5.0,FM,TONE,,NO,Exact,35.13763140,-106.54608690,--:--
+21,NewMexico,Clovis,Curry,W7FED_5,,442.67500,-,5.0,FM,TONE,156.7,NO,Exact,34.40146240,-103.20780700,--:--
+21,NewMexico,Belen,Valencia,KC5OUR_3,,442.70000,+,5.0,DV,TONE,,NO,Exact,34.66279984,-106.77600098,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,W5ASM,,442.75000,-,5.0,FM,TONE,,NO,Exact,35.20890045,-106.44699860,--:--
+21,NewMexico,High Rolls,Otero,W5AKU,,442.80000,+,5.0,FM,TONE,,NO,Exact,32.95080185,-105.83499908,--:--
+21,NewMexico,Taos - Civic Plaza,Taos,KF5PFO_6,,442.80000,-,5.0,DV,TONE,,NO,Exact,36.40950000,-105.57240000,--:--
+21,NewMexico,Santa Fe - Tesuque Peak,Santa Fe,KB5ZQE_1,,442.82500,-,5.0,FM,TONE,,NO,Exact,35.78499985,-105.78099823,--:--
+21,NewMexico,White Rock,Los Alamos,KC2SHO,,442.85000,-,5.0,FM,TONE,203.5,NO,Exact,35.82752570,-106.20391450,--:--
+21,NewMexico,TAOS - San Antonio Mtn,Rio Arriba,W7FED_6,,442.87500,-,5.0,FM,TONE,131.8,NO,Exact,36.85000000,-106.01000000,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,NM5HR,,442.90000,-,5.0,DV,,,NO,Exact,35.21350098,-106.44999695,--:--
+21,NewMexico,Anthony - Border,Dona Ana,N5ZRF,,442.95000,-,5.0,FM,TONE,,NO,Exact,31.99400000,-106.59300000,--:--
+21,NewMexico,Alamogordo,Otero,N6CID_4,,442.95000,-,5.0,FM,TONE,85.4,NO,Exact,32.81240082,-105.78099823,--:--
+21,NewMexico,Alamogordo,Otero,N6CID_5,,442.97500,-,5.0,DV,,,NO,Exact,32.89953250,-105.96026500,--:--
+21,NewMexico,Rio Rancho - Rainbow,Sandoval,NM5RR_1,,443.00000,-,5.0,FM,TONE,,NO,Exact,35.27439880,-106.73699951,--:--
+21,NewMexico,Clovis,Curry,KC5VOX,,443.05000,-,5.0,FM,TONE,,NO,Exact,34.40479870,-103.20522720,--:--
+21,NewMexico,Cuba - Eureka Mesa,Sandoval,W7FED_7,,443.07500,-,5.0,FM,TONE,100.0,NO,Exact,36.01368500,-106.84440700,--:--
+21,NewMexico,San Ysidro - Pajarito Peak,Sandoval,NM5SC_1,,443.10000,-,5.0,FM,TONE,,NO,Exact,35.69670105,-106.85900116,--:--
+21,NewMexico,Santa Fe,Santa Fe,WR7HLN_1,,443.15000,-,5.0,DV,,,NO,Exact,35.67871100,-105.99164600,--:--
+21,NewMexico,T or C - Caballo Peak,Sierra,WR7HLN_2,,443.15000,-,5.0,DV,,,NO,Exact,32.96654100,-107.22774300,--:--
+21,NewMexico,Corrales,Sandoval,N5QD,,443.20000,-,5.0,DV,,,NO,Exact,35.23780060,-106.60700226,--:--
+21,NewMexico,Mountainair - Capilla Peak,Torrance,WR7HLN_3,,443.25000,-,5.0,DV,,,NO,Exact,34.68879000,-106.40944380,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,WR7HLN_4,,443.30000,-,5.0,DV,,,NO,Exact,35.21674700,-106.45261500,--:--
+21,NewMexico,Grants - La Mosca Peak,Cibola,WR7HLN_5,,443.35000,-,5.0,DV,,,NO,Exact,35.25292600,-107.59666400,--:--
+21,NewMexico,Placitas - Sandia Peak,Sandoval,NM5SV,,443.40000,-,5.0,FM,TONE,,NO,Exact,35.33599854,-106.44100189,--:--
+21,NewMexico,Placitas,Sandoval,K6NM,,443.40000,-,5.0,FM,TONE,,NO,Exact,35.30698450,-106.42474680,--:--
+21,NewMexico,Tome - Valencia Middle School,Valencia,KJ5DZQ,,443.42500,-,5.0,DV,TONE,,NO,Exact,34.73245400,-106.68128100,--:--
+21,NewMexico,Clovis,Curry,KA5B_1,,443.45000,-,5.0,FM,TONE,,NO,Exact,34.40470123,-103.20500183,--:--
+21,NewMexico,Albuquerque,Bernalillo,KB5XE_1,,443.50000,+,5.0,FM,TONE,,NO,Exact,35.10964300,-106.49782300,--:--
+21,NewMexico,Albuquerque - 9 Mile Hill,Bernalillo,WR7HLN_6,,443.55000,-,5.0,DV,,,NO,Exact,35.06761400,-106.78076300,--:--
+21,NewMexico,Ruidoso,Lincoln,N5SN,,443.60000,-,5.0,FM,TONE,,NO,Exact,33.33169937,-105.67299652,--:--
+21,NewMexico,Albuquerque - Petroglyph Natl Monument,Bernalillo,NM5SH_1,,443.65000,-,5.0,DV,TONE,,NO,Exact,35.16189957,-106.72499847,--:--
+21,NewMexico,Albuquerque - Sandia Peak,Bernalillo,WA6CCB,,443.75000,-,5.0,FM,TONE,,NO,Exact,35.21829987,-106.45099640,--:--
+21,NewMexico,Tucumcari - Tucumcari Mountain,Quay,WA5EMA,,443.75000,-,5.0,FM,TONE,,NO,Exact,35.13401000,-103.69914100,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,W5MPZ,,443.80000,-,5.0,FM,,,NO,Exact,35.21641800,-106.45225900,--:--
+21,NewMexico,Portales - ENMU,Roosevelt,KE5RUE_4,,443.80000,-,5.0,FM,,,NO,Exact,34.18000031,-103.34999847,--:--
+21,NewMexico,Albuquerque,Bernalillo,KC0QIZ,,443.85000,-,5.0,FM,TONE,,NO,Exact,35.16609955,-106.54299927,--:--
+21,NewMexico,Ruidoso - Buck Mtn,Lincoln,K5RIC_1,,443.92500,-,5.0,FM,TONE,100.0,NO,Exact,33.40390015,-105.78299713,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,W5CSY_1,,444.00000,-,5.0,FM,TONE,,NO,Exact,35.20976000,-106.44809600,--:--
+21,NewMexico,Mountainair - Capilla Peak,Torrance,W5NES,,444.07500,-,5.0,FM,TONE,,NO,Exact,34.69730000,-106.40430000,--:--
+21,NewMexico,Albuquerque,Bernalillo,KC5ZXW,,444.10000,-,5.0,FM,TONE,,NO,Exact,35.06290054,-106.51499939,--:--
+21,NewMexico,Clovis,Curry,K5UOT,,444.12500,-,5.0,FM,TONE,,NO,Exact,34.40479870,-103.20522720,--:--
+21,NewMexico,Tijeras - Manzanito Mtns,Bernalillo,K5CQH_1,,444.15000,-,5.0,FM,TONE,127.3,NO,Exact,34.98619900,-106.34478700,--:--
+21,NewMexico,Farmington,San Juan,KF5VBF,,444.15000,-,5.0,FM,,,NO,Exact,36.72809982,-108.21900177,--:--
+21,NewMexico,Albuquerque,Bernalillo,N5UJC,,444.20000,-,5.0,FM,TONE,,NO,Exact,35.23781970,-106.60669260,--:--
+21,NewMexico,White Rock,Los Alamos,W7FED_8,,444.22500,-,5.0,FM,TONE,,NO,Exact,35.81000000,-106.21000000,--:--
+21,NewMexico,Jal,Lea,N5LEA,,444.25000,-,5.0,FM,TONE,100.0,NO,Exact,32.20840073,-103.52899933,--:--
+21,NewMexico,Hobbs - Professional Communications Tower,Lea,AH2AZ,,444.27500,-,5.0,FM,TONE,162.2,NO,Exact,32.66719818,-103.12699890,--:--
+21,NewMexico,Roswell,Chaves,KJ5UFO_1,,444.30000,-,5.0,DV,,,NO,Exact,33.39426550,-104.52302420,--:--
+21,NewMexico,Chama - Rabbit Peak,Rio Arriba,WR7HLN_7,,444.30000,-,5.0,DV,,,NO,Exact,36.89944400,-106.60202800,--:--
+21,NewMexico,Albuquerque - Sandia Crest,Bernalillo,NM5ML_22,,444.32500,-,5.0,FM,TONE,,NO,Exact,35.21672000,-106.45197000,--:--
+21,NewMexico,Eagle Nest - Iron Mtn,Colfax,NM5ML_23,,444.35000,-,5.0,FM,TONE,,NO,Exact,36.59999847,-105.25000000,--:--
+21,NewMexico,Maljamar - KBIM,Lea,N5LEA_1,,444.35000,-,5.0,FM,TONE,162.2,NO,Exact,33.05555600,-103.82055600,--:--
+21,NewMexico,Edgewood,Santa Fe,W0ZW,,444.35000,-,5.0,FM,TONE,,NO,Exact,35.06143580,-106.19141410,--:--
+21,NewMexico,Ruidoso - Buck Mtn,Lincoln,NM5ML_24,,444.37500,-,5.0,FM,TONE,,NO,Exact,33.40449905,-105.78199768,--:--
+21,NewMexico,Las Vegas - Mesa Apache,San Miguel,WA5IHL_3,,444.37500,-,5.0,FM,TONE,,NO,Exact,35.40399933,-105.19300079,--:--
+21,NewMexico,Ruidoso - Buck Mtn,Lincoln,W5JXT_1,,444.40000,-,5.0,DV,,,NO,Exact,33.40459824,-105.78199768,--:--
+21,NewMexico,Wagon Mound,Mora,N7JNI,,444.40000,-,5.0,FM,TONE,,NO,Exact,36.00889969,-104.70600128,--:--
+21,NewMexico,Roswell - Comanche Hill,Chaves,W5ZU_1,,444.42500,-,5.0,FM,,,NO,Exact,33.40829849,-104.37400055,--:--
+21,NewMexico,Clovis,Curry,WS5D_1,,444.45000,-,5.0,FM,TONE,71.9,NO,Exact,34.41479874,-103.18499756,--:--
+21,NewMexico,Carlsbad,Eddy,N5MJ,,444.45000,-,5.0,FM,TONE,127.3,NO,Exact,32.39680099,-104.19100189,--:--
+21,NewMexico,Socorro - M Mtn,Socorro,W5AQA_1,,444.50000,-,5.0,FM,,,NO,Exact,34.07170105,-106.96299744,--:--
+21,NewMexico,Belen - Capilla Peak,Torrance,W5URD,,444.52500,-,5.0,FM,,,NO,Exact,34.70140076,-106.40100098,--:--
+21,NewMexico,Roswell - Comanche Hill,Chaves,W5GNB,,444.55000,-,5.0,FM,TONE,162.2,NO,Exact,33.40168000,-104.37994300,--:--
+21,NewMexico,Santa Fe - Food Depot,Santa Fe,W5SF_6,,444.57500,-,5.0,FM,,,NO,Exact,35.65800000,-105.99500000,--:--
+21,NewMexico,Albuquerque,Bernalillo,N5GU,,444.60000,-,5.0,DV,,,NO,Exact,35.07920074,-106.48899841,--:--
+21,NewMexico,Grants - Oso Ridge,Cibola,K5EMO,,444.65000,-,5.0,FM,TONE,,NO,Exact,35.14504170,-107.82775240,--:--
+21,NewMexico,Rio Rancho - Intel Corp,Sandoval,KG5WED,,444.70000,-,5.0,FM,TONE,100.0,NO,Exact,35.22499847,-106.66000366,--:--
+21,NewMexico,Socorro - West Peak,Socorro,N5IA_2,,444.75000,-,5.0,FM,TONE,88.5,NO,Exact,34.07170105,-106.96299744,--:--
+21,NewMexico,Los Alamos - Pajarito Mtn,Los Alamos,WD9CMS,,444.77500,-,5.0,FM,TONE,127.3,NO,Exact,35.88610000,-106.38930000,--:--
+21,NewMexico,Grants - La Mosca Peak,Cibola,NM5ML_25,,444.80000,-,5.0,FM,TONE,,NO,Exact,35.25260000,-107.59660000,--:--
+21,NewMexico,Albuquerque,Bernalillo,KA5ABQ,,444.82500,-,5.0,DV,,,NO,Exact,35.08438590,-106.65042200,--:--
+21,NewMexico,Roswell - Comanche Hill,Chaves,W5JXT_2,,444.95000,-,5.0,DV,,,NO,Exact,33.39649963,-104.38200378,--:--
+21,NewMexico,Cubero,Cibola,KE5FYL_3,,444.95000,-,5.0,FM,TONE,151.4,NO,Exact,35.18623000,-107.60131000,--:--
+21,NewMexico,Grants - La Mosca Peak,Cibola,K5EMO_1,,444.97500,-,5.0,FM,TONE,100.0,NO,Exact,35.25313000,-107.59662000,--:--
+21,NewMexico,Artesia,Eddy,W5COW,,444.97500,-,5.0,FM,TONE,,NO,Exact,32.84230042,-104.40299988,--:--
+21,NewMexico,Alamogordo,Otero,N6CID_6,,444.97500,-,5.0,DV,,,NO,Exact,32.81240082,-105.78099823,--:--
+21,NewMexico,Taos - Ski Valley,Taos,N5TSV,,444.97500,-,5.0,FM,TONE,,NO,Exact,36.56700000,-105.44800000,--:--
+21,NewMexico,High Rolls - Karr Canyon,Otero,KE7KUS,,445.98750,+,5.0,DV,TONE,151.4,NO,Exact,32.92250000,-105.81800000,--:--
+21,NewMexico,Raton - Raton Pass,Colfax,KD0RDI,,446.77500,+,5.0,FM,,,NO,Exact,36.99250031,-104.47399902,--:--
+21,NewMexico,McIntosh - McIntosh Post Office,Torrance,KB5VPZ,,447.27500,+,5.0,FM,TONE,71.9,NO,Exact,34.84149933,-106.13099670,--:--
+21,NewMexico,Albuquerque,Bernalillo,KI6EAY_1,,447.30000,+,5.0,FM,TONE,,NO,Exact,35.09472000,-106.57743100,--:--
+21,NewMexico,Aztec,San Juan,KB5ITS_8,,447.45000,+,5.0,FM,TONE,,NO,Exact,36.82220078,-107.99199677,--:--
+21,NewMexico,Alamogordo - White Sands Nat Monument,Otero,KA5PAL_1,,447.56250,+,5.0,DV,TONE,100.0,NO,Exact,32.89950000,-105.96020000,--:--
+21,NewMexico,Santa Fe,Santa Fe,KF5SGT,,447.77500,+,5.0,FM,TONE,,NO,Exact,35.64799881,-105.98500061,--:--
+21,NewMexico,Truth or Consequences - Caballo,Sierra,W7FED_9,,447.85000,+,5.0,FM,TONE,131.8,NO,Exact,33.12830900,-107.25472650,--:--
+21,NewMexico,Caballo - Caballo Peak,Sierra,N5IA_3,,448.17500,+,5.0,FM,TONE,,NO,Exact,33.13309860,-107.23500061,--:--
+21,NewMexico,Las Cruces - Twin Peaks,Dona Ana,N5BL_4,,448.20000,+,5.0,FM,TONE,,NO,Exact,32.40000153,-106.76000214,--:--
+21,NewMexico,Gallup - Deza Bluffs,McKinley,KC5WDV_1,,448.20000,+,5.0,FM,TONE,,NO,Exact,35.90309906,-108.77200317,--:--
+21,NewMexico,Pinos Altos,Grant,N5IA_4,,448.30000,+,5.0,FM,TONE,,NO,Exact,32.86339951,-108.22100067,--:--
+21,NewMexico,Caballo - Caballo Peak,Sierra,NM5C,,448.50000,+,5.0,DV,,,NO,Exact,32.97176800,-107.22307400,--:--
+21,NewMexico,Bloomfield,San Juan,KB5ITS_9,,448.65000,+,5.0,FM,TONE,,NO,Exact,36.71110153,-107.98500061,--:--
+21,NewMexico,Deming - Little Florida Mtn,Luna,N5IA_5,,448.72500,+,5.0,FM,TONE,,NO,Exact,32.19279861,-107.60500336,--:--
+21,NewMexico,Glenwood - Brushy Mtn,Catron,WY5G,,448.77500,+,5.0,FM,TONE,103.5,NO,Exact,33.98899841,-108.96099854,--:--
+21,NewMexico,Silver City,Grant,WY5G_1,,448.80000,+,5.0,FM,TONE,100.0,NO,Exact,32.77000046,-108.27999878,--:--
+21,NewMexico,Silver City,Grant,WA7ACA,,448.87500,+,5.0,FM,TONE,,NO,Exact,32.77000046,-108.27999878,--:--
+21,NewMexico,Caballo - Caballo Peak,Sierra,N5IA_6,,448.97500,+,5.0,FM,TONE,,NO,Exact,33.97050095,-107.22499847,--:--
+21,NewMexico,Lordsburg - Jack's Peak,Hidalgo,N5IA_7,,449.00000,+,5.0,FM,TONE,,NO,Exact,32.35279846,-108.69999695,--:--
+21,NewMexico,Farmington,San Juan,K5WY,,449.00000,+,5.0,FM,TONE,,NO,Exact,36.72809982,-108.21800232,--:--
+21,NewMexico,Rio Rancho,Sandoval,W5BI,,449.30000,+,5.0,FM,TONE,,NO,Exact,35.27443900,-106.69680100,--:--
+21,NewMexico,Deming,Luna,WA6RT,,449.47500,+,5.0,FM,TONE,,NO,Exact,32.26860046,-107.75800323,--:--
+21,NewMexico,Albuquerque - Op Ctr,Bernalillo,K5FIQ_3,,449.55000,+,5.0,FM,TONE,,NO,Exact,35.05780029,-106.58699799,--:--
+21,NewMexico,Las Cruces - Talavera,Dona Ana,KA5ECS,,449.75000,+,5.0,DV,,,NO,Exact,32.30000000,-106.62000000,--:--
+21,NewMexico,Gallup,McKinley,KC5WDV_2,,449.75000,+,5.0,FM,TONE,,NO,Exact,35.60600000,-108.69000000,--:--
+21,NewMexico,Deming,Luna,N5WSB,,449.85000,+,5.0,FM,TONE,,NO,Exact,32.26860046,-107.75800323,--:--
+21,NewMexico,Taos - Holy Cross,Taos,KF5PFO_7,,449.87500,+,5.0,FM,TONE,,NO,Exact,36.36690000,-105.57650000,--:--
+21,NewMexico,Tres Piedras - San Antonio Mtn,Taos,WA5IHL_4,,449.90000,+,5.0,FM,TONE,100.0,NO,Exact,36.85973790,-106.01890760,--:--
