@@ -117,9 +117,15 @@ with open(input_file, mode='r', newline='', encoding='utf-8') as infile, \
             out_freq = in_freq = offset = 0.0
             dup = "0"
 
+
+
         lat = row.get('Lat', 0)
         long = row.get('Long', 0)
-       
+ 
+ 
+    tone = row.get('Uplink Tone', '')  # Set TONE to 'Tone' if uplink_tone is provided
+    if tone:
+        tone = "TONE"       
        
         # Get Repeater and Gateway Call Signs
         repeater_call = row.get('Call', '')
@@ -158,7 +164,7 @@ with open(input_file, mode='r', newline='', encoding='utf-8') as infile, \
             'Dup': dup,
             'Offset': abs(offset),
             'Mode': map_mode(row.get('Mode', 'FM')),
-            'TONE': row.get('Uplink Tone', ''),
+            'TONE': tone,
             'Repeater Tone': row.get('Downlink Tone', ''),
             'RPT1USE': "NO",  # Translates to the SKIP 
             'Position': determine_position(lat, long),
